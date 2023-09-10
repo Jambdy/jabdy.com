@@ -1,0 +1,3 @@
+The first set is called [NFL Statistics](https://www.kaggle.com/kendallgillies/nflstatistics). Specifically I am using the "Basic_Stats" file that contains player statistics like name, position, height, and weight. 
+
+I had to fix some Age values in the Basic Statistics set (assuming no player is actually 2017 years old).     
