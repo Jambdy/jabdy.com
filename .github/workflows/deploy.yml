@@ -4,7 +4,7 @@ on:
     branches: [main]
 jobs:
   build_deploy:
-    name: Build site
+    name: Build site and deploy to AWS
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
