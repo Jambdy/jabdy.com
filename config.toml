@@ -1,0 +1,56 @@
+baseURL = "https://jabdy.com/"
+languageCode = "en-us"
+title = "James Abdy"
+theme = "ghostwriter"
+
+[Privacy]
+
+[Privacy.disqus]
+    disable = true
+
+[Privacy.googleAnalytics]
+    anonymizeIP = true
+    respectDoNotTrack = true
+    useSessionStorage = false
+
+[Author]
+    name = "My Name"
+    profile = "https://google.com/+XXX"
+
+[Taxonomies]
+    tag = "tags"
+
+[Params]
+    intro = true
+    headline = "James Abdy"
+    description = "Continuing my journey in the data science field."
+    linkedin = "https://www.linkedin.com/in/james-abdy"
+    email = "JamesAbdy1@gmail.com"
+    opengraph = true
+    shareLinkedIn = false
+    shareFacebook = false
+    shareGooglePlus = false
+    shareTwitter = false
+    dateFormat = "Jan 2, 2006"
+    highlightJsUrl = ""
+    highlightJsLocalUrl = ""
+    custom_css = ["css/my_projects.css"]
+
+[Permalinks]
+    post = "/:year/:month/:day/:filename/"
+
+[[menu.main]]
+    name = "Projects"
+    url = "/project/"
+    weight = 1
+    
+[[menu.main]]
+    name = "About"
+    url = "/page/about/"
+    weight = 2
+
+[[menu.main]]
+    name = "Contact"
+    url = "/page/contact"
+    weight = 3
+
