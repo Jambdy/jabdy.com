@@ -1,6 +1,7 @@
 name: Build and deploy site to AWS
 on:
-  push: [main]
+  push:
+    branches: [main]
 jobs:
   build:
     runs-on: ubuntu-latest
