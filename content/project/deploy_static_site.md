@@ -55,6 +55,35 @@ The name of the S3 bucket is jabdy.com. The AWS credentials for the account can 
 
 A potential enhancement would be to use this action to implement the AWS credentials: https://github.com/aws-actions/configure-aws-credentials. This implementation would be more secure as the credentials would have a limited lifespan.
 
+The complete GitHub Actions yaml file for this repo is:
+
+~~~
+name: Build and deploy site to AWS
+on:
+  push:
+    branches: [main]
+jobs:
+  build_deploy:
+    name: Build site and deploy to AWS
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.41'
+      - name: build
+        run: hugo
+      - name: Upload to S3
+        run: |
+          aws s3 sync ./public s3://jabdy.com
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          AWS_DEFAULT_REGION: 'us-east-1'
+~~~
+
 ## Conclusion
 
 GitHub Actions are a quick/cheap way to enable continuous deployment for static sites. There is no cost to use GitHub actions for public repositories. 
