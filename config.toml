@@ -1,4 +1,4 @@
-baseURL = "https://jabdy.com/"
+baseURL = "https://jabdy.com"
 languageCode = "en-us"
 title = "James Abdy"
 theme = "ghostwriter"
@@ -23,7 +23,7 @@ theme = "ghostwriter"
 [Params]
     intro = true
     headline = "James Abdy"
-    description = "Continuing my journey in the data science field."
+    description = "Under-Developed Development"
     linkedin = "https://www.linkedin.com/in/james-abdy"
     email = "JamesAbdy1@gmail.com"
     opengraph = true
@@ -41,16 +41,16 @@ theme = "ghostwriter"
 
 [[menu.main]]
     name = "Projects"
-    url = "/project/"
+    url = "/projects/"
     weight = 1
     
 [[menu.main]]
     name = "About"
-    url = "/page/about/"
+    url = "/pages/about/"
     weight = 2
 
 [[menu.main]]
     name = "Contact"
-    url = "/page/contact"
+    url = "/pages/contact"
     weight = 3
 
