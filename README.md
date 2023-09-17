@@ -2,8 +2,8 @@
 This is a Hugo static site
 
 ## Build Commands
-hugo -v (Build Site)
+build site: hugo -v
 
-hugo server -D 
+run site locally: hugo server -D 
 
-http://localhost:1313/  
+local url: http://localhost:1313/  
