@@ -1,4 +1,4 @@
-baseURL = "https://jabdy.com"
+baseURL = "https://jabdy.com/"
 languageCode = "en-us"
 title = "James Abdy"
 theme = "ghostwriter"
