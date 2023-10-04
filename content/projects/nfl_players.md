@@ -10,6 +10,8 @@ date = 2018-12-10
 author = "James Abdy"
 +++
 
+<img class="center" src="/img/nfl_players/cam.jpg">
+
 The classification problem for this project was inspired by a silly hypothetical question I thought of: could you make an entire NFL team out of Cam Newton clones? Cam Newton is a exceptional athlete, running a 4.56 second 40-yard dash at 6' 5'' and 250 lbs. While he currently plays quaterback, it stands to reason that with his strength and size he could excel at other positions on the field ([related article](https://abcnews.go.com/Sports/cam-newton-play-positions-handful-fact/story?id=35800413)). This got me thinking about the average statistics of each position and how Cam compares. This then led me to think about whether player position could be reasonably classified based on some basic player statistics. 
 
 ## Tools
