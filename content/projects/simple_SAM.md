@@ -276,9 +276,9 @@ Defining and deploying the serverless infrastructure for the app was easy with A
 
 I will probably continue to use AWS SAM for future projects.
 
-[Link to GitHub project] (https://github.com/Jambdy/famous-fishbowl-backend)
-
 ## References
+
+[Link to GitHub project] (https://github.com/Jambdy/famous-fishbowl-backend/tree/e306783b17f18be9db73d068b4dd9726edc3543d)
 
 https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-getting-started-hello-world.html
 
