@@ -1,6 +1,6 @@
 +++
 title = "Handle Overwrites"
-description = "Avoid stale updates in DynamoDB using List Append and ConditionExpressions" 
+description = "Avoid stale updates in DynamoDB using List Append and Condition Expressions" 
 tags = [
 "AWS",
 "Personal Project",
@@ -20,7 +20,27 @@ For my simple game app, Famous Fishbowl, I need to allow multiple users to updat
 
 ## Prior Implementation
 
-The initial implementation of the game state update just used the DynamoDB put_item method to naively replace the entire game record with the game record updated by a user action. Within the app, the client polls the server every 5 seconds to get the latest version of the game. Problems arise when multiple users make updates before a new version of the game record is retrieved, with the latest user action overwriting the previous user action. There are two main examples where this could occur, each with different solutions.
+The initial implementation of the game state update just used the DynamoDB put_item method to naively replace the entire game record with the game record updated by a user action (shown below).
+
+~~~
+table.put_item(
+Item={
+    'id': request_json['id'],
+    'state': request_json['state'],
+    'creationTime': request_json['creationTime'],
+    'completionTime': request_json['completionTime'],
+    'categories': request_json['categories'],
+    'names': request_json['names'],
+    'round': request_json['round'],
+    'curTeam': request_json['curTeam'],
+    'teamScores': request_json['teamScores'],
+    'timeRemaining': request_json['timeRemaining'],
+    'turnResumeTime': request_json['turnResumeTime']
+}
+)
+~~~
+
+Within the app, the client polls the server every 5 seconds to get the latest version of the game. Problems arise when multiple users make updates before a new version of the game record is retrieved, with the latest user action overwriting the previous user action. There are two main examples where this could occur, each with different solutions.
 
 ## List Append for Name Updates
 
@@ -52,7 +72,7 @@ table.update_item(
 
 As one would expect, this operation works with DynamoDB attributes defined with the List type. The attribute name is identified in the ExpressionAttributeNames parameter, and the passed value is set in ExpressionAttributeValues.
 
-## DynamoDB Condition Expressions
+## Condition Expressions for Turn Starts
 
 The other primary scenario that could result in conflicting updates is when two users attempt to start a turn simultaneously. Only one player should be able to view names/give clues at a time, while the other players should see the turn-in-progress screen shown below:
 
@@ -76,7 +96,7 @@ table.update_item(
 )
 ~~~
 
-If the update is stale, the stored game record will be returned in the response when the ReturnValuesOnConditionCheckFailure parameter is set to true. The game state on the client is then updated with the latest version excluding the rejected update. I made some API calls on the client synchronous to support this behavior, ensuring that the game screens would not progress until a non-stale update was confirmed.
+If the update is stale, the stored game record will be returned in the response when the ReturnValuesOnConditionCheckFailure parameter is set to 'All_OLD'. The game state on the client is then updated with the latest version excluding the rejected update. I made some API calls on the client synchronous to support this behavior, ensuring that the game screens would not progress until a non-stale update was confirmed.
 
 ## Future State
 
