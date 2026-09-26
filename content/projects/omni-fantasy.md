@@ -1,20 +1,19 @@
 +++
 title = "Omni Fantasy"
-description = "An AI fantasy football manager, with the league rules enforced in code."
+description = "Fantasy football lineup suggestions, roster moves, and reports on the results."
 date = "2026-09-13"
 tags = ["Python", "Gemini", "AWS"]
 author = "James Abdy"
 ai_generated = true
 visual = "forest"
-monogram = "4th & AI"
+card_summary = "An ESPN fantasy football assistant that uses the league\u2019s actual rules, roster, and available players. It checks lineups around game days, considers roster changes, and keeps a record of whether its recommendations helped."
+monogram = "Fantasy football"
 +++
 
-I built a fantasy football manager that can suggest lineup changes and waiver moves for an ESPN league. It reads the actual scoring rules, roster, opponents, and available players before asking Gemini what to do.
+Omni Fantasy is an assistant for managing an ESPN fantasy football team. It reads the league’s scoring rules, current roster, opponents, and available players, then uses Gemini to suggest lineup and roster changes. This gives it the context of the actual league, including its roster restrictions, instead of asking for general advice about which players might have a good week.
 
-The model handles the judgment calls. Python handles slot eligibility, roster limits, and whether a proposed move is legal. A confident explanation does not make an extra starting running back fit in the lineup.
+Scheduled runs check the lineup around game days, while a separate run can consider additions and drops. The recommendations come with explanations, and the app can apply changes as well as produce a report. Before a move is submitted, the code checks whether the proposed lineup or roster is legal. Notifications summarize the decisions and flag failures that would prevent the scheduled runs from working.
 
-Scheduled runs check the lineup around game days, with a separate window for roster changes. Every proposal goes into a journal, including rejected moves and advice that was never applied. A weekly grading job compares the proposed lineup against what actually happened.
+The app keeps a journal of its proposals, including advice that was rejected or never applied. After the games, a grading report compares the suggested lineups with the results and looks at points left on the bench. That history is useful for separating a plausible explanation from advice that actually helped. I am not assuming the computer is better at fantasy football; this at least gives me a way to check.
 
-That last part is the interesting bit. Getting an AI to offer fantasy advice is easy. Keeping a record of whether the advice helped is more useful.
-
-The source is private.
+This project is a Python application running on AWS Lambda with scheduled invocations, Gemini for recommendations, and S3 for the decision history. It has command-line tools and reports rather than a separate website. The repository is private.

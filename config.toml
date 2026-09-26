@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "James Abdy"
 enableRobotsTXT = true
 [params]
-  description = "Software, side projects, and occasional follow-through. James Abdy’s project notebook."
+  description = "Personal software projects, everyday apps, and technical articles by James Abdy, a software engineer based in Oakland."
   author = "James Abdy"
 [taxonomies]
   tag = "tags"

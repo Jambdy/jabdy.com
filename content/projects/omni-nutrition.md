@@ -1,21 +1,19 @@
 +++
 title = "Omni Nutrition"
-description = "Food logging through search, barcodes, or a description of what I ate."
+description = "A food diary with calorie and macro totals, recipes, and barcode scanning."
 date = "2026-03-11"
 tags = ["React", "Gemini", "Nutrition"]
 author = "James Abdy"
 ai_generated = true
 icon = "/img/projects/omni-nutrition.png"
 visual = "peach"
-monogram = "kcal"
+card_summary = "Log food through search, a barcode, or a plain-language description. Custom foods and recipes cover repeated meals, while daily summaries connect the food diary with activity and the main Omni app."
 +++
 
-Omni Nutrition is a calorie and macro tracker. It supports food search through OpenFoodFacts, barcode scanning, custom foods, and recipes.
+Omni Nutrition is a food diary for keeping track of calories and macronutrients. Food can be entered through a search, a barcode scan, or a description of a meal. The search uses OpenFoodFacts, while custom foods provide a way to save items that are missing from the database or need different information.
 
-For meals that are easier to describe than look up, Gemini turns a natural-language entry into a food log. That is convenient, though it still leaves the usual problem of estimating what actually went into a meal.
+Recipes make repeated meals easier to log without entering each ingredient again. For meals that are simpler to describe than look up, Gemini can turn a natural-language entry into a food log. That is convenient when there is no exact packaged item to select, though the result still depends on how accurately the meal and its portions are described.
 
-Daily summaries sync to the main Omni app. Fitbit activity provides the other side of the energy-balance view, so food and activity do not have to stay in separate apps.
+The app sends daily summaries to [Omni](/projects/omni/), so food totals can sit alongside the rest of the daily record. Fitbit activity is also available for looking at food intake and activity together. The purpose is to reduce the amount of repeated entry needed to maintain a useful log, rather than make food tracking another project in itself.
 
-The stack is React, Python Lambda, and DynamoDB, with the same sign-in system as the other Omni apps.
-
-[Open Omni Nutrition](https://nutrition.jabdy.com). Sign-in is required; the source is private.
+It is a React and TypeScript web app with a Python backend on AWS Lambda and DynamoDB storage. It shares Google sign-in with the other Omni apps. [Open Omni Nutrition](https://nutrition.jabdy.com). Sign-in is required, and the repository is private.

@@ -1,21 +1,19 @@
 +++
 title = "Omni Fitness"
-description = "A workout log that keeps up between sets, even without a connection."
+description = "Workout logging with exercise history, reusable routines, and rest timers."
 date = "2026-05-11"
 tags = ["React", "Local-first", "Android"]
 author = "James Abdy"
 ai_generated = true
 icon = "/img/projects/omni-fitness.png"
 visual = "peach"
-monogram = "Sets \u00d7 reps"
+card_summary = "A workout tracker with sets, weights, reps, personal records, and templates. It keeps years of imported FitNotes history and supports offline logging, with an Android version for use at the gym."
 +++
 
-I built Omni Fitness to log exercises, sets, weights, and reps without waiting for a server after every tap. The app writes locally to IndexedDB and syncs in the background.
+Omni Fitness is a workout tracker for recording exercises, weights, repetitions, and sets. It includes an exercise library and a calendar of previous workouts, with years of history imported from FitNotes. That makes it possible to look back at an exercise’s progress without keeping the old app around just for its records.
 
-It started with years of workout history imported from FitNotes. There is an exercise library, reusable workout templates, personal records, and a rest timer. A day’s log can become a template, which is less tedious than setting up the same workout twice.
+Workouts can be saved as templates and reused, or a completed day can become the starting point for a new routine. The app tracks personal records and lets exercises in the current log be reordered. These are fairly ordinary workout-tracker features, but having them together means less setup when repeating a routine and a useful reference for what happened last time.
 
-The Android version uses Capacitor. Getting the rest timer to behave when the app was in the background took additional work, including a countdown in the notification shade and a completion notification that clears itself.
+There is a rest timer, including a countdown in the Android notification shade, so it can be checked while the app is in the background. Logging works locally and syncs afterward, which is useful when the gym connection is unreliable. The main goal is to make recording a workout easy enough that I will actually keep doing it.
 
-Most of this project is about small interactions. Logging the next set should take less attention than doing it.
-
-[Open Omni Fitness](https://fitness.jabdy.com). Sign-in is required; the source is private.
+The app uses React and TypeScript, with Capacitor for Android and a Python backend on AWS Lambda backed by DynamoDB. [Open Omni Fitness](https://fitness.jabdy.com). Sign-in is required, and the repository is private.

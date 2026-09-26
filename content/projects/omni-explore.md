@@ -1,21 +1,19 @@
 +++
 title = "Omni Explore"
-description = "A shared map for places worth saving and things worth identifying."
+description = "Save places, share maps, and identify plants and animals from photos."
 date = "2026-09-11"
 tags = ["React", "Maps", "Gemini"]
 author = "James Abdy"
 ai_generated = true
 icon = "/img/projects/omni-explore.png"
 visual = "lime"
-monogram = "Explore"
+card_summary = "A map for collecting places to visit and things found along the way. Save locations with photos and notes, organize them into shared layers, and use photo identification to build a collection of nature observations."
 +++
 
-I wanted one map for places to revisit and things I found along the way. Omni Explore lets me save a place, photograph a tree or bird, and have Gemini suggest an identification.
+Omni Explore is a map-based app for saving places and recording things found outdoors. A saved location can include a title, photos, notes, and tags, so it can hold more context than a bare pin. It is useful for keeping track of places to return to, organizing locations for a trip, or remembering what was interesting about somewhere after leaving it.
 
-Each observation has the same basic information: location, title, photos, notes, and a kind. The details depend on what it is. A tree can have a scientific name; a restaurant can have a cuisine. Adding another kind does not require rebuilding the map or changing the database layout.
+Places are organized into layers that can be shown, hidden, and shared. That lets a collection of locations stay together without putting every saved place on the map at once. A searchable library provides another way to browse the same information, and a saved item can be shown on the map when its location matters. Shared layers let more than one person contribute to the same collection.
 
-Saved places live in layers, which also control visibility and sharing. There is a searchable library and a nature collection for browsing observations without hunting for individual pins.
+The photo identification feature uses Gemini to suggest what a photographed plant or animal might be. The observation keeps its location and photos alongside the suggested identification, and a nature collection makes it possible to browse the finds together. It is a way to put a name to something encountered on a walk and keep a record of it, rather than leave another unidentified tree photo in the camera roll.
 
-The frontend is a React PWA over Google Maps. A Python API runs on Lambda, with DynamoDB for observations and S3 for photos.
-
-[Open Omni Explore](https://explore.jabdy.com). Sign-in and access are required; the source is private.
+The frontend is a React and TypeScript progressive web app using Google Maps. A Python API runs on AWS Lambda, with DynamoDB for saved records and S3 for photos. [Open Omni Explore](https://explore.jabdy.com). Sign-in and access are required, and the repository is private.

@@ -1,21 +1,19 @@
 +++
 title = "Podium"
-description = "Ranked lists, tier lists, and brackets for opinions that needed more structure."
+description = "Create ranked lists, tier lists, brackets, and ratings, with a film library import."
 date = "2026-07-21"
 tags = ["React", "Python", "Gemini"]
 author = "James Abdy"
 ai_generated = true
 icon = "/img/projects/podium.png"
 visual = "lavender"
-monogram = "1 / 2 / 3"
+card_summary = "A place to organize rankings of films or anything else. Choose a list, tiers, ratings, or a tournament bracket; add images; or start from the films already rated in an imported IMDb library."
 +++
 
-Podium is a place to rank things. It supports ordered lists, tiers, brackets, and ratings, depending on how seriously I want to take an opinion about a sandwich or a film.
+Podium is an app for making rankings and lists. It supports ordered lists, tier lists, tournament brackets, and individual ratings, so the same subject can be approached in several ways. A straight ranking is useful when the order is already clear; a bracket turns it into a series of smaller comparisons. Whether this is a productive use of an evening depends on how much you care about the list.
 
-Items can pull images from Wikipedia, use an uploaded image, or start from a list generated with Gemini. The image lookup turned out to need more care than expected: finding the right film is different from finding an album with the same name. The list title helps disambiguate the search, and a retry can try another image before moving on to another subject.
+Items can have images found through Wikipedia, uploaded directly, or added by URL. Gemini can also generate an initial set of items from a list title, which gives a starting point to edit instead of filling everything in manually. The list’s subject helps the image search distinguish between things with similar names.
 
-There is also an IMDb library import, so I can build lists from films I have already rated instead of remembering them all from scratch.
+The film library supports importing IMDb ratings. That lets a film list or bracket start from titles already watched and rated, instead of relying on whatever comes to mind at the time. Lists can also be shared, so the result is not limited to sitting in a personal spreadsheet.
 
-It uses a React frontend, a Python Lambda backend, and DynamoDB. The source is private.
-
-[Open Podium](https://podium.jabdy.com). Sign-in is required.
+The app uses a React and TypeScript frontend, a Python backend on AWS Lambda, DynamoDB, and S3 for images. [Open Podium](https://podium.jabdy.com). Sign-in is required, and the repository is private.
