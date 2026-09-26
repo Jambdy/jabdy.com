@@ -1,0 +1,14 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ if not .IsHome }}{{ .Title }} · {{ end }}James Abdy</title>
+<meta name="description" content="{{ .Description | default .Site.Params.description }}">
+<link rel="canonical" href="{{ .Permalink }}"><meta name="theme-color" content="#f6f5ef">
+<meta property="og:title" content="{{ .Title }}"><meta property="og:description" content="{{ .Description | default .Site.Params.description }}"><meta property="og:url" content="{{ .Permalink }}"><meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
+{{ with .Params.image }}<meta property="og:image" content="{{ . | absURL }}">{{ end }}
+<link rel="icon" href="/favicon.ico">{{ $css := resources.Get "css/site.css" | minify | fingerprint }}<link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}">
+<link rel="alternate" type="application/rss+xml" title="James Abdy" href="/index.xml">
+</head><body><a class="skip-link" href="#main">Skip to content</a>
+<header class="site-header wrap"><a class="wordmark" href="/" aria-label="James Abdy home">ja<span>.</span></a><nav aria-label="Main navigation"><a {{ if or .IsHome (eq .Section "projects") }}aria-current="page"{{ end }} href="/projects/">Projects</a><a {{ if eq .RelPermalink "/pages/about/" }}aria-current="page"{{ end }} href="/pages/about/">About</a><a {{ if eq .RelPermalink "/pages/contact/" }}aria-current="page"{{ end }} href="/pages/contact/">Contact <span aria-hidden="true">↗</span></a></nav></header>
+<main id="main" class="wrap">{{ block "main" . }}{{ end }}</main>
+<footer class="site-footer wrap"><span>© {{ now.Year }} James Abdy</span><span>Under-developed development.</span><a href="/index.xml">RSS ↗</a></footer>
+{{ $js := resources.Get "js/site.js" | minify | fingerprint }}<script src="{{ $js.RelPermalink }}" defer></script></body></html>

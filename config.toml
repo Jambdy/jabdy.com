@@ -1,57 +1,16 @@
 baseURL = "https://jabdy.com/"
 languageCode = "en-us"
 title = "James Abdy"
-theme = "ghostwriter"
-
-[Privacy]
-
-[Privacy.disqus]
-    disable = true
-
-[Privacy.googleAnalytics]
-    anonymizeIP = true
-    respectDoNotTrack = true
-    useSessionStorage = false
-
-[Author]
-    name = "My Name"
-    profile = "https://google.com/+XXX"
-
-[Taxonomies]
-    tag = "tags"
-
-[Params]
-    intro = true
-    headline = "Projects"
-    description = "Under-Developed Development"
-    linkedin = "https://www.linkedin.com/in/james-abdy"
-    email = "JamesAbdy1@gmail.com"
-    github = "https://github.com/Jambdy"
-    opengraph = true
-    shareLinkedIn = false
-    shareFacebook = false
-    shareGooglePlus = false
-    shareTwitter = false
-    dateFormat = "Jan 2, 2006"
-    highlightJsUrl = ""
-    highlightJsLocalUrl = ""
-    custom_css = ["css/my_projects.css"]
-
-[Permalinks]
-    post = "/:year/:month/:day/:filename/"
-
-[[menu.main]]
-    name = "Projects"
-    url = "/projects/"
-    weight = 1
-    
-[[menu.main]]
-    name = "About"
-    url = "/pages/about/"
-    weight = 2
-
-[[menu.main]]
-    name = "Contact"
-    url = "/pages/contact"
-    weight = 3
-
+enableRobotsTXT = true
+[params]
+  description = "Software, side projects, and occasional follow-through. James Abdy’s project notebook."
+  author = "James Abdy"
+[taxonomies]
+  tag = "tags"
+[permalinks]
+  post = "/:year/:month/:day/:filename/"
+[markup.goldmark.renderer]
+  unsafe = true
+[markup.highlight]
+  style = "github"
+  lineNos = false

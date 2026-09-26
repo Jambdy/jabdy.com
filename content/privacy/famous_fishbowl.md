@@ -1,4 +1,8 @@
-# Privacy Policy for Famous Fishbowl Android App
++++
+title = "Famous Fishbowl Privacy Policy"
++++
+
+## Privacy Policy for Famous Fishbowl Android App
 
 By downloading and using the Famous Fishbowl app, you agree to the practices described in this Privacy Policy. If you do not agree with any part of this policy, please do not use our app.
 

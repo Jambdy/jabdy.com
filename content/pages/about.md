@@ -1,12 +1,12 @@
 +++
 title = "About"
 author = "James Abdy"
-description = "ME"
+description = "Software engineer at Meta, working in Integrity. Based in Oakland."
 +++
 
-My name is James Abdy, and I am interested in starting/abandoning random software projects. I am a Full Stack Developer at Cox Automotive, primarily focused on preventing fraud and supporting internal operations. I obtained my Master’s degree in Computer Science with a concentration in Machine Learning from the Georgia Institute of Technology in late 2017. I was raised outside of Atlanta, but now live in Oakland. I enjoy watching HBO shows, traveling, and skiing poorly.
+My name is James Abdy, and I am interested in starting/abandoning random software projects. I am a software engineer at Meta, working in Integrity. I obtained my Master’s degree in Computer Science with a concentration in Machine Learning from the Georgia Institute of Technology in late 2017. I was raised outside of Atlanta, but now live in Oakland. I enjoy watching HBO shows, traveling, and skiing poorly.
 
-I am working on some personal projects that I hope to have up on the site shortly. Like everyone else, AI does all my work now.
+The [project notebook](/projects/) has the latest personal projects alongside the older experiments. Like everyone else, AI does all my work now. New AI-generated write-ups are labeled.
 
 
-<img id="about_pic" src="/img/ship_pic.jpg">
+<img id="about_pic" src="/img/ship_pic.jpg" alt="James aboard a ship">

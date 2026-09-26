@@ -4,3 +4,6 @@
 .claude/
 hugo.exe
 hugo.zip
+
+.hugo_build.lock
+/resources/

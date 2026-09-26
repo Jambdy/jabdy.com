@@ -1,0 +1,11 @@
+{
+ "body_composition_estimator": "/img/body_composition_estimator/header.jpg",
+ "websocket_sync": "/img/websocket_sync/websocket_logo.png",
+ "handle_dynamo_overwrites": "/img/handle_stale_updates/stale_bread.jpg",
+ "simple_SAM": "/img/simple_sam/sam_squirrel.png",
+ "deploy_static_site": "/img/deploy_static_site/github_secrets.png",
+ "nfl_players": "/img/nfl_players/cam.jpg",
+ "cnn": "/img/cnn/lc_all.png",
+ "unsupervised_learning": "/img/unsupervised_learning/kurtosis.png",
+ "supervised_learning": "/img/supervised_learning/dt_lc.png"
+}
