@@ -8,7 +8,22 @@
     <p>These days AI does much of the coding. I’m mostly deciding what I want the apps to do and trying them out. The newer articles are AI-generated too, and labeled accordingly.</p>
     <div class="intro-links"><a class="text-link" href="/pages/about/">More about me</a><a class="text-link" href="/pages/contact/">Get in touch</a></div>
   </div>
-  <figure class="hero-photo"><img src="/img/ship_pic.jpg" alt="James in front of a sailing ship" width="710" height="947"><figcaption>Outside of software: travel, HBO, and skiing poorly.</figcaption></figure>
+  <aside class="app-shelf" aria-labelledby="app-shelf-title">
+    <p class="eyebrow">Personal software</p>
+    <h2 id="app-shelf-title">A few of my apps</h2>
+    <p class="shelf-description">Small projects for things I keep track of, places I go, and how I spend my time.</p>
+    <div class="shelf-grid">
+      {{ range slice "omni" "omni-fitness" "omni-explore" "omni-nutrition" "omni-finance" "podium" }}
+        {{ with site.GetPage (printf "/projects/%s" .) }}
+        <a class="shelf-app" href="{{ .RelPermalink }}">
+          <img src="{{ .Params.icon }}" alt="" width="512" height="512">
+          <span>{{ replace .Title "Omni " "" }}</span>
+        </a>
+        {{ end }}
+      {{ end }}
+    </div>
+    <a class="shelf-more" href="#project-heading">Browse the projects <span aria-hidden="true">↓</span></a>
+  </aside>
 </section>
 {{ partial "project-index.html" . }}
 {{ end }}
