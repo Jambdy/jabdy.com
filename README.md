@@ -25,7 +25,7 @@ The check verifies content routes, local assets, internal links, and AI disclosu
 
 ## Publish
 
-Push to `main` to build, validate, and sync `public/` to `s3://jabdy.com`, using the existing AWS secrets and region. Pull requests run the same build and validation without deploying. Manual workflow dispatch is also available. The workflow preserves the existing S3 sync behavior and does not provision AWS resources.
+Push to `main` to build, validate, and sync `public/` to `s3://jabdy.com`, using the existing AWS secrets and region. Pull requests run the same build and validation without deploying. Manual workflow dispatch is also available. The workflow retains existing S3 objects and does not provision AWS resources. HTML is uploaded with revalidation headers so CloudFront picks up new pages promptly; fingerprinted CSS and JavaScript can remain cached.
 
 ## Content
 
