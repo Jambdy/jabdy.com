@@ -5,6 +5,7 @@ date = "2026-07-21"
 tags = ["React", "Python", "Gemini"]
 author = "James Abdy"
 ai_generated = true
+icon = "/img/projects/podium.png"
 visual = "lavender"
 monogram = "1 / 2 / 3"
 +++
@@ -18,8 +19,3 @@ There is also an IMDb library import, so I can build lists from films I have alr
 It uses a React frontend, a Python Lambda backend, and DynamoDB. The source is private.
 
 [Open Podium](https://podium.jabdy.com). Sign-in is required.
-
-<figure class="article-image">
-<img src="/img/projects/podium.jpg" alt="Public sign-in screen at podium.jabdy.com" loading="lazy" width="1200" height="750">
-<figcaption>Live site, September 2026. The app requires sign-in, so this capture shows its public entry screen.</figcaption>
-</figure>

@@ -5,6 +5,7 @@ date = "2026-05-11"
 tags = ["React", "Local-first", "Android"]
 author = "James Abdy"
 ai_generated = true
+icon = "/img/projects/omni-fitness.png"
 visual = "peach"
 monogram = "Sets \u00d7 reps"
 +++
@@ -18,8 +19,3 @@ The Android version uses Capacitor. Getting the rest timer to behave when the ap
 Most of this project is about small interactions. Logging the next set should take less attention than doing it.
 
 [Open Omni Fitness](https://fitness.jabdy.com). Sign-in is required; the source is private.
-
-<figure class="article-image">
-<img src="/img/projects/fitness.jpg" alt="Public sign-in screen at fitness.jabdy.com" loading="lazy" width="1200" height="750">
-<figcaption>Live site, September 2026. The app requires sign-in, so this capture shows its public entry screen.</figcaption>
-</figure>

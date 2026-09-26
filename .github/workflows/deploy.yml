@@ -21,7 +21,7 @@ jobs:
         with:
           hugo-version: '0.125.5'
       - name: Build
-        run: hugo --gc --minify --panicOnWarning
+        run: hugo --gc --minify --panicOnWarning --cleanDestinationDir
       - name: Check generated site
         run: python3 scripts/check_site.py
       - name: Upload to S3
@@ -29,6 +29,9 @@ jobs:
         run: |
           aws s3 sync ./public s3://jabdy.com --exclude '*.html' --no-progress
           aws s3 cp ./public s3://jabdy.com --recursive --exclude '*' --include '*.html' --content-type 'text/html; charset=utf-8' --cache-control 'public,max-age=0,must-revalidate' --no-progress
+          while IFS= read -r path; do
+            aws s3 rm "s3://jabdy.com/$path"
+          done < scripts/retired-assets.txt
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}

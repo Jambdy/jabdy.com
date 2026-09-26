@@ -14,11 +14,9 @@ Dates below are the arithmetic mean of author timestamps returned by GitHub's pa
 | Omni Finance | 67 | 2026-04-20 | Frontend structure, budget, tagging and retirement commit history |
 | Omni Nutrition | 110 | 2026-03-11 | README and integration documentation |
 | Omni Life Manager | 135 | 2026-03-10 | README and integration documentation |
-| Questrade → Lunch Money | 25 | 2026-01-09 | Public repository README |
-| Phone Usage Dashboard | 8 | 2025-10-15 | Public repository README |
 
-Only the last two entries link to source, because their repositories are public. The separate Omni Explore working checkout is the same project and did not receive another entry. Original Famous Fishbowl technical articles remain separate historical articles; no duplicate overview was added.
+The eight current entries describe private repositories without source links. The separate Omni Explore working checkout is the same project and did not receive another entry. Original Famous Fishbowl technical articles remain separate historical articles; no duplicate overview was added.
 
-Screenshots in `static/img/projects/` were captured from the live public sites on September 26, 2026, in a fresh unauthenticated browser at 1200 × 750. All six sites require sign-in; the images and captions explicitly show their public entry screens. No private account records or invented product screens are included.
+App icons in `static/img/projects/` are copied from each project’s own PWA assets or, for Omni Phone, its Android launcher foreground. Omni Fantasy has no app icon and retains a typographic card. Login screenshots and the Phone Usage Dashboard and Questrade → Lunch Money entries were removed at the user’s request.
 
 The About page preserves the user's change to Meta / Integrity. All nine original project article bodies are unchanged.

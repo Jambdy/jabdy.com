@@ -5,6 +5,7 @@ date = "2026-09-11"
 tags = ["React", "Maps", "Gemini"]
 author = "James Abdy"
 ai_generated = true
+icon = "/img/projects/omni-explore.png"
 visual = "lime"
 monogram = "Explore"
 +++
@@ -18,8 +19,3 @@ Saved places live in layers, which also control visibility and sharing. There is
 The frontend is a React PWA over Google Maps. A Python API runs on Lambda, with DynamoDB for observations and S3 for photos.
 
 [Open Omni Explore](https://explore.jabdy.com). Sign-in and access are required; the source is private.
-
-<figure class="article-image">
-<img src="/img/projects/explore.jpg" alt="Public sign-in screen at explore.jabdy.com" loading="lazy" width="1200" height="750">
-<figcaption>Live site, September 2026. The app requires sign-in, so this capture shows its public entry screen.</figcaption>
-</figure>

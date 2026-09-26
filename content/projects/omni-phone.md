@@ -5,6 +5,8 @@ date = "2026-06-06"
 tags = ["Android", "Screen time", "Omni"]
 author = "James Abdy"
 ai_generated = true
+icon = "/img/projects/omni-phone.png"
+icon_padded = true
 visual = "blue"
 monogram = "Screen / time"
 +++

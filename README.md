@@ -31,4 +31,4 @@ Push to `main` to build, validate, and sync `public/` to `s3://jabdy.com`, using
 
 Add one Markdown file per new project in `content/projects/`. Use `ai_generated = true` for AI-written entries; this adds a visible label to cards and a disclosure to articles. Dates for the 2026 refresh approximate the arithmetic mean of GitHub commit author dates. See [content provenance](docs/content-provenance.md).
 
-Keep original articles intact. New entries can use `visual` and `monogram` for a typographic card or `image` for an image. Existing archive thumbnails are mapped in `data/project_images.json`. Private repositories are described without source links.
+Keep original articles intact. New entries can use `icon` for an existing app icon, `visual` and `monogram` for a typographic card, or `image` for an image. Login screenshots are not used. Existing archive thumbnails are mapped in `data/project_images.json`. Private repositories are described without source links.

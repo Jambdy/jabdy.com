@@ -5,6 +5,7 @@ date = "2026-04-20"
 tags = ["React", "Lunch Money", "AWS"]
 author = "James Abdy"
 ai_generated = true
+icon = "/img/projects/omni-finance.png"
 visual = "forest"
 monogram = "$ / sense"
 +++
@@ -18,8 +19,3 @@ The app also tracks account snapshots and includes a retirement projection. Thos
 It is a React frontend with a Python serverless backend. The source is private.
 
 [Open Omni Finance](https://finance.jabdy.com). Sign-in is required.
-
-<figure class="article-image">
-<img src="/img/projects/finance.jpg" alt="Public sign-in screen at finance.jabdy.com" loading="lazy" width="1200" height="750">
-<figcaption>Live site, September 2026. The app requires sign-in, so this capture shows its public entry screen.</figcaption>
-</figure>

@@ -1,0 +1,8 @@
+projects/phone-usage/index.html
+projects/questrade-lunchmoney-sync/index.html
+img/projects/explore.jpg
+img/projects/podium.jpg
+img/projects/life.jpg
+img/projects/fitness.jpg
+img/projects/finance.jpg
+img/projects/nutrition.jpg
