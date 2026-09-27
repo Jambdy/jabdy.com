@@ -118,11 +118,7 @@ h1 { font-size: clamp(38px, 5vw, 58px); line-height: 1.15; font-weight: 750; let
 .sr-only, .skip-link:not(:focus) { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0,0,0,0); white-space: nowrap; border: 0; }
 .skip-link:focus { position: fixed; top: 10px; left: 10px; background: var(--white); padding: 15px; z-index: 10; }
 /* The homepage uses existing project artwork, with no extra image requests. */
-.brand-mark { width: 28px; height: 28px; display: grid; grid-template-columns: 1fr 1fr; gap: 3px; transform: rotate(-7deg); flex-shrink: 0; }
-.brand-mark i { background: #bb6547; border-radius: 3px; }
-.brand-mark i:nth-child(2) { background: #d0a54b; }
-.brand-mark i:nth-child(3) { background: #7c9b80; }
-.brand-mark i:nth-child(4) { background: #728caa; }
+.brand-mark { display: block; width: 16px; height: 16px; flex-shrink: 0; }
 .hero h1 { width: fit-content; padding-bottom: 5px; background: linear-gradient(transparent 83%, #e6c997 83% 96%, transparent 96%); }
 .app-shelf { border: 1px solid #c7cbbb; border-radius: 16px; padding: 27px; background: linear-gradient(145deg, #f5f6ec, #e8eddf); box-shadow: 7px 8px 0 #dfd4bf65; }
 .app-shelf > .eyebrow { color: #5b6a57; margin: 0 0 9px; font-size: 11px; }
@@ -153,7 +149,6 @@ h1 { font-size: clamp(38px, 5vw, 58px); line-height: 1.15; font-weight: 750; let
   .site-header nav { font-size: 13px; gap: 2px; }
   .site-header nav a { padding: 8px; }
   .wordmark { gap: 8px; }
-  .brand-mark { width: 22px; height: 22px; }
   .hero { grid-template-columns: 1fr; padding: 30px 0; gap: 24px; }
   .hero h1 { font-size: 42px; }
   .hero-copy > p:not(.eyebrow) { font-size: 16px; }
