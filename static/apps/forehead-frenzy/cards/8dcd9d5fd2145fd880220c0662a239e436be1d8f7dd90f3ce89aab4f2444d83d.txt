@@ -1,0 +1,93 @@
+== Charades: Actions | act | Charades | 🎭
+Brushing Your Teeth|Taking a Selfie|Riding a Bike|Swimming|Climbing a Ladder|Walking a Dog|Flying a Kite|Fishing|Juggling|Skipping Rope
+Typing on a Computer|Driving a Car|Changing a Diaper|Mowing the Lawn|Vacuuming|Ironing a Shirt|Washing Dishes|Making a Bed|Baking a Cake|Flipping Pancakes
+Chopping Onions|Eating Spaghetti|Drinking Through a Straw|Blowing Bubbles|Blowing Up a Balloon|Popping a Balloon|Opening a Stuck Jar|Peeling a Banana|Eating Corn on the Cob|Licking an Ice Cream Cone
+Putting on Makeup|Shaving|Tying a Tie|Tying Shoelaces|Putting on Tight Jeans|Doing Push-Ups|Lifting Weights|Doing Yoga|Jumping Jacks|Hula Hooping
+Playing Guitar|Playing Drums|Playing Piano|Playing Violin|Conducting an Orchestra|Singing Opera|Taking a Bow|Painting a Picture|Sculpting Clay|Knitting
+Rowing a Boat|Surfing|Skiing|Ice Skating|Snowboarding|Throwing a Snowball|Building a Snowman|Shoveling Snow|Raking Leaves|Planting a Seed
+Sneezing|Yawning|Hiccuping|Sleepwalking|Snoring|Waking Up Late|Getting a Haircut|Taking a Shower|Brushing Hair|Walking on Hot Sand
+Bowling|Golfing|Shooting a Basketball|Hitting a Home Run|Kicking a Field Goal|Serving in Tennis|Boxing|Karate Chop|Fencing|Archery
+Climbing a Rope|Parachuting|Bungee Jumping|Riding a Horse|Riding a Roller Coaster|Paddling a Canoe|Milking a Cow|Herding Sheep|Chopping Wood|Hammering a Nail
+
+== Charades: Animals | act | Charades | 🐒
+Monkey|Elephant|Kangaroo|Penguin|Snake|Chicken|Frog|Cat|Dog|Horse
+Gorilla|Giraffe|Crab|Flamingo|Bird|Fish|Shark|Octopus|Lion|Bear
+Rabbit|Duck|Turkey|Cow|Pig|Sheep|Owl|Bat|Butterfly|Bee
+Spider|Ant|Worm|Snail|Turtle|Crocodile|T-Rex|Seal|Dolphin|Whale
+Squirrel|Peacock|Rooster|Woodpecker|Ostrich|Sloth|Koala|Camel|Moose|Mosquito
+Lobster|Jellyfish|Starfish|Caterpillar|Grasshopper|Chameleon|Hummingbird|Eagle|Vulture|Hyena
+Meerkat|Bulldog|Poodle|Puppy|Kitten|Hamster|Goldfish|Llama|Donkey|Skunk
+
+== Charades: Movies | act | Charades | 🍿
+Titanic|Jaws|Star Wars|Jurassic Park|The Lion King|Frozen|Spider-Man|Batman|Superman|Harry Potter
+Home Alone|Rocky|Karate Kid|Top Gun|Ghostbusters|E.T.|King Kong|Godzilla|Shrek|Finding Nemo
+Toy Story|The Matrix|Pirates of the Caribbean|Indiana Jones|Back to the Future|Dirty Dancing|Grease|Saturday Night Fever|Singin' in the Rain|Mary Poppins
+The Wizard of Oz|Cinderella|Snow White|Beauty and the Beast|The Little Mermaid|Aladdin|Tarzan|Peter Pan|Pinocchio|Dumbo
+Frankenstein|Dracula|The Mummy|The Exorcist|Psycho|Scream|Halloween|The Ring|Ghost|Edward Scissorhands
+The Hunger Games|Twilight|Mission: Impossible|James Bond|Die Hard|Terminator|Gladiator|300|Braveheart|The Karate Kid
+Footloose|Flashdance|Happy Feet|Ice Age|Madagascar|Kung Fu Panda|Cars|Up|Wall-E|Inside Out
+Mrs. Doubtfire|The Mask|Ace Ventura|Elf|Night at the Museum|Jumanji|Honey, I Shrunk the Kids|Free Willy|Babe|Space Jam
+Rambo|The Sixth Sense|Forrest Gump|Cast Away|The Godfather|Jaws 2|Twister|Armageddon|The Avengers|Black Panther
+
+== Charades: Everyday Life | act | Charades | 🧺
+Waiting in Line|Missing the Bus|Stuck in Traffic|Parallel Parking|Looking for Your Keys|Locked Out of the House|Burning Toast|Spilling Coffee|Stubbing Your Toe|Stepping on a Lego
+Answering the Phone|Ordering at a Drive-Thru|Grocery Shopping|Carrying Too Many Bags|Pumping Gas|Taking Out the Trash|Folding Laundry|Changing a Light Bulb|Assembling Furniture|Unclogging a Toilet
+Checking Your Phone|Scrolling Social Media|Charging Your Phone|Sending a Text|Video Calling|Taking a Group Photo|Posting a Selfie|Losing Wi-Fi|Online Shopping|Opening a Package
+Getting Ready for Work|Hitting Snooze|Making Coffee|Eating Breakfast in a Hurry|Running Late|Riding an Elevator|Sitting in a Meeting|Falling Asleep at Your Desk|Using a Photocopier|Getting a Paper Cut
+Going to the Dentist|Getting a Shot|Taking Medicine|Blowing Your Nose|Having a Cold|Getting a Massage|Getting a Manicure|Getting Your Hair Washed|Walking in High Heels|Trying on Clothes
+Cooking Dinner|Setting the Table|Doing the Dishes|Feeding a Baby|Putting a Kid to Bed|Reading a Bedtime Story|Walking the Dog in the Rain|Petting a Cat|Giving a Dog a Bath|Cleaning a Litter Box
+Watering Plants|Washing the Car|Painting a Wall|Hanging a Picture|Wrapping a Present|Opening a Present|Blowing Out Birthday Candles|Lighting a Grill|Flipping Burgers|Eating Hot Soup
+
+== Charades: Emotions | act | Charades | 😱
+Happy|Sad|Angry|Scared|Surprised|Disgusted|Embarrassed|Nervous|Excited|Bored
+Confused|Jealous|Proud|Shy|Guilty|Lonely|Grumpy|Sleepy|Hungry|Thirsty
+In Love|Heartbroken|Hangry|Anxious|Relieved|Suspicious|Annoyed|Frustrated|Overjoyed|Terrified
+Sneaky|Silly|Smug|Sassy|Disappointed|Impatient|Exhausted|Stressed|Calm|Hopeful
+Brave|Sick|Dizzy|Ticklish|Itchy|Cold|Hot|Stuffed After a Big Meal|Brain Freeze|Hiccups
+Starstruck|Awkward|Homesick|Seasick|Starving|Giddy|Moody|Paranoid|Lovesick|Cranky
+Shocked|Grateful|Determined|Victorious|Defeated|Stubborn|Curious|Distracted|Hyper|Zen
+
+== Charades: Sports & Games | act | Charades | 🏀
+Basketball|Baseball|Football|Soccer|Hockey|Tennis|Golf|Bowling|Boxing|Wrestling
+Swimming|Diving|Gymnastics|Figure Skating|Skiing|Surfing|Skateboarding|Cycling|Archery|Fencing
+Weightlifting|Pole Vault|Hurdles|Javelin|Shot Put|Sprinting|Marathon|Rowing|Kayaking|Water Skiing
+Ping Pong|Badminton|Volleyball|Dodgeball|Limbo|Tug of War|Sack Race|Hopscotch|Hide and Seek|Musical Chairs
+Twister|Jenga|Yoga|Karate|Sumo Wrestling|Curling|Bobsled|Horse Riding|Rodeo|Bull Riding
+Fishing|Rock Climbing|Hiking|Darts|Pool|Cornhole|Frisbee|Kite Flying|Jump Rope|Hula Hoop
+Synchronized Swimming|Arm Wrestling|Musical Statues|Freeze Tag|Leapfrog|Red Light Green Light|Simon Says|Rock Paper Scissors|Thumb War|Pin the Tail on the Donkey
+
+== Charades: Dance Moves | act | Charades | 💃
+The Floss|The Robot|The Moonwalk|The Macarena|The Twist|The Chicken Dance|The YMCA|The Worm|The Running Man|The Sprinkler
+The Shopping Cart|The Dab|The Whip|The Nae Nae|Gangnam Style|The Cha Cha Slide|The Electric Slide|The Hokey Pokey|The Conga Line|The Limbo
+Breakdancing|Ballet|Tap Dancing|Salsa|Tango|Waltz|Hip Hop|Line Dancing|Square Dancing|Irish Step Dancing
+The Hustle|Disco|Vogue|Twerking|Headbanging|Moshing|The Charleston|Swing Dance|The Cabbage Patch|The Roger Rabbit
+The Carlton|The Shuffle|The Hand Jive|The Bus Stop|The Funky Chicken|Belly Dancing|Hula|Pole Dancing|Cheerleading|Jazz Hands
+The Harlem Shake|The Stanky Leg|The Dougie|The Cupid Shuffle|Thriller Dance|Single Ladies Dance|Interpretive Dance|Slow Dancing|Riverdance|The Jitterbug
+The Tootsie Roll|The Lawnmower|The Penguin|Fist Pump|The Mashed Potato|The Locomotion|Flamenco|Zumba|Can-Can|Krumping
+
+== Charades: Situations | act | Charades | 🤪
+Stepping on Gum|Walking Into a Glass Door|Getting Stuck in a Revolving Door|Slipping on a Banana Peel|Getting Caught in the Rain|Losing Your Swimsuit in the Pool|Sitting on a Whoopee Cushion|Getting a Brain Freeze|Biting Into a Lemon|Eating Something Way Too Spicy
+Chasing an Ice Cream Truck|Being Chased by a Bee|Running From a Bear|Seeing a Spider|Trying to Kill a Fly|Catching a Fish That Fights Back|Falling Off a Horse|Losing at Bingo|Winning the Lottery|Finding Money in Your Pocket
+Being Stuck in Quicksand|Escaping a Zombie|Defusing a Bomb|Sneaking Past a Sleeping Dog|Breaking Into a Safe|Robbing a Bank|Being on a First Date|Proposing Marriage|Getting Dumped|Meeting a Celebrity
+Riding a Mechanical Bull|Trying to Sleep on an Airplane|Turbulence on a Flight|Hailing a Taxi|Paddling Against the Current|Doing the Walk of Shame|Hiding From Your Ex|Trying to Open a Bag of Chips Quietly|Sneezing in a Library|Laughing at a Funeral
+Wading Through Cold Water|Walking on a Tightrope|Walking a Very Big Dog|Herding Cats|Getting Pulled Over|Taking a Driving Test|Assembling IKEA Furniture|Putting a Cat in a Carrier|Building a House of Cards|Opening Shrink Wrap
+Brushing a Lion's Teeth|Trying on a Wetsuit|Holding in a Sneeze|Holding in a Laugh|Waking Up a Sleeping Baby|Losing Your Phone in the Couch|Changing a Flat Tire|Pushing a Broken-Down Car|Carrying a Couch Upstairs|Getting Hair Stuck in a Zipper
+Being a Mime Stuck in a Box|Getting Hit by a Pie|Running a Marathon in Flip-Flops|Getting Stung by a Jellyfish|Sunburn Back Pat|Opening a Can of Biscuits|Popping Bubble Wrap|Trying Chopsticks for the First Time|Drinking Sour Milk|Watching a Scary Movie
+
+== Charades: Kids Easy | act | Kids | 🧸
+Dog|Cat|Bunny|Fish|Bird|Monkey|Elephant|Snake|Dinosaur|Frog
+Sleeping|Eating|Crying|Laughing|Jumping|Running|Swimming|Dancing|Singing|Clapping
+Brushing Teeth|Washing Hands|Taking a Bath|Reading a Book|Drawing|Painting|Kicking a Ball|Throwing a Ball|Riding a Bike|Swinging on a Swing
+Going Down a Slide|Building Blocks|Blowing Bubbles|Licking a Lollipop|Eating Ice Cream|Drinking Milk|Opening a Present|Hugging|Waving Hello|Blowing a Kiss
+Superhero|Princess|Robot|Pirate|Monster|Ghost|Witch|Cowboy|Astronaut|Firefighter
+Airplane|Train|Car|Rocket|Boat|Helicopter|Bicycle|Fire Truck|Bus|Tractor
+Snowman|Rain|Thunder|Sun|Wind|Tree|Flower|Butterfly|Spider|Bee
+
+== Charades: Hard Mode | act | Charades | 🔥
+Photosynthesis|Gravity|Evolution|Déjà Vu|Procrastination|Gossip|Inflation|Democracy|Jet Lag|Writer's Block
+Midlife Crisis|Social Distancing|Daylight Saving Time|The Stock Market|Global Warming|Time Travel|Karma|Peer Pressure|Hangover|Insomnia
+Customer Service Hold Music|Buffering Video|Autocorrect|Unsubscribing From Emails|Forgetting Someone's Name|A Pyramid Scheme|Reality TV|Fake News|Going Viral|A Software Update
+A Wedding Toast Gone Wrong|An Awkward Hug|A Firm Handshake|Ghosting Someone|Catfishing|Mansplaining|A Humblebrag|An Inside Joke|A Plot Twist|A Cliffhanger
+The Butterfly Effect|Survival of the Fittest|Stage Fright|Cabin Fever|FOMO|Hangry|Senioritis|Monday Morning|Sunday Scaries|Road Rage
+Bermuda Triangle|The Big Bang|An Echo|A Rainbow|An Earthquake|A Tornado|An Avalanche|A Solar Eclipse|Northern Lights|A Black Hole
+Free Will|Nostalgia|Irony|Sarcasm|Silence|Infinity|Patience|Luck|Gratitude|Ambition

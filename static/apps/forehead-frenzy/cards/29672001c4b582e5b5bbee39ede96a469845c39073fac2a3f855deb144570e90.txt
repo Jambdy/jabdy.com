@@ -1,0 +1,101 @@
+== Desserts & Sweets | say | Food & Drink | 🍰
+Chocolate Cake|Cheesecake|Cupcake|Brownie|Chocolate Chip Cookie|Apple Pie|Pumpkin Pie|Pecan Pie|Key Lime Pie|Banana Split
+Ice Cream Sundae|Milkshake|Popsicle|Snow Cone|Cotton Candy|Funnel Cake|Churros|Donut|Cinnamon Roll|Éclair
+Tiramisu|Crème Brûlée|Macarons|Cannoli|Baklava|Gelato|Sorbet|Frozen Yogurt|Fudge|Toffee
+Lollipop|Gummy Bears|Jelly Beans|Candy Corn|Candy Cane|Marshmallow|S'mores|Rice Krispies Treat|Caramel Apple|Candy Apple
+Red Velvet Cake|Carrot Cake|Birthday Cake|Wedding Cake|Pound Cake|Angel Food Cake|Black Forest Cake|Lava Cake|Ice Cream Cake|Strawberry Shortcake
+Pudding|Jell-O|Flan|Rice Pudding|Bread Pudding|Peach Cobbler|Apple Crumble|Trifle|Mousse|Soufflé
+Twinkie|Oreo|Pop-Tart|Snickerdoodle|Gingerbread Man|Sugar Cookie|Fortune Cookie|Biscotti|Whoopie Pie|Mochi
+M&M's|Skittles|Snickers|Kit Kat|Reese's Peanut Butter Cups|Twizzlers|Starburst|Hershey's Kiss|Tootsie Roll|Nerds
+
+== Drinks | say | Food & Drink | 🥤
+Water|Coffee|Tea|Hot Chocolate|Lemonade|Orange Juice|Apple Juice|Milk|Chocolate Milk|Smoothie
+Milkshake|Iced Tea|Sweet Tea|Bubble Tea|Matcha Latte|Cappuccino|Espresso|Latte|Frappuccino|Pumpkin Spice Latte
+Coca-Cola|Pepsi|Sprite|Dr Pepper|Mountain Dew|Root Beer|Ginger Ale|Cream Soda|Energy Drink|Sports Drink
+Coconut Water|Kombucha|Sparkling Water|Tonic Water|Eggnog|Apple Cider|Hot Toddy|Chai|Green Tea|Herbal Tea
+Beer|Wine|Champagne|Whiskey|Vodka|Tequila|Rum|Gin|Sake|Hard Seltzer
+Margarita|Mojito|Martini|Piña Colada|Bloody Mary|Mimosa|Cosmopolitan|Old Fashioned|Long Island Iced Tea|Sangria
+Slurpee|Shirley Temple|Arnold Palmer|Kool-Aid|Capri Sun|Juice Box|Protein Shake|Horchata|Lassi|Yerba Mate
+
+== Breakfast Foods | say | Food & Drink | 🥞
+Pancakes|Waffles|French Toast|Scrambled Eggs|Fried Egg|Omelet|Eggs Benedict|Bacon|Sausage|Ham
+Hash Browns|Home Fries|Toast|Bagel|English Muffin|Croissant|Muffin|Biscuits and Gravy|Cinnamon Roll|Donut
+Cereal|Oatmeal|Granola|Yogurt|Fruit Salad|Smoothie Bowl|Avocado Toast|Breakfast Burrito|Breakfast Sandwich|Quiche
+Grits|Corned Beef Hash|Chicken and Waffles|Crepes|Danish|Scone|Pop-Tart|Cream of Wheat|Frosted Flakes|Cheerios
+Lucky Charms|Froot Loops|Cocoa Puffs|Cinnamon Toast Crunch|Rice Krispies|Corn Flakes|Raisin Bran|Captain Crunch|Coffee|Orange Juice
+Maple Syrup|Butter|Jam|Nutella|Peanut Butter|Cream Cheese|Lox|Shakshuka|Huevos Rancheros|Chilaquiles
+Dutch Baby|Eggs in a Basket|Deviled Eggs|Soft-Boiled Egg|Poached Egg|Frittata|Breakfast Pizza|Toaster Strudel|Eggo Waffles|Turkey Bacon
+
+== Fruits & Veggies | say | Food & Drink | 🥦
+Apple|Banana|Orange|Grapes|Strawberry|Blueberry|Raspberry|Blackberry|Cherry|Watermelon
+Cantaloupe|Honeydew|Pineapple|Mango|Papaya|Kiwi|Peach|Pear|Plum|Apricot
+Lemon|Lime|Grapefruit|Coconut|Pomegranate|Fig|Date|Dragon Fruit|Passion Fruit|Lychee
+Avocado|Tomato|Cucumber|Carrot|Broccoli|Cauliflower|Spinach|Lettuce|Kale|Cabbage
+Celery|Corn|Peas|Green Beans|Potato|Sweet Potato|Onion|Garlic|Pepper|Jalapeño
+Zucchini|Eggplant|Pumpkin|Squash|Mushroom|Asparagus|Artichoke|Brussels Sprouts|Radish|Beet
+Turnip|Parsnip|Leek|Okra|Bok Choy|Ginger|Olive|Cranberry|Rhubarb|Starfruit
+
+== Fast Food Favorites | say | Food & Drink | 🍔
+Big Mac|Whopper|Happy Meal|Chicken Nuggets|French Fries|Onion Rings|Milkshake|Chicken Sandwich|Fish Sandwich|Cheeseburger
+Taco|Burrito|Chalupa|Crunchwrap|Nachos|Quesadilla|Hot Dog|Corn Dog|Pizza|Breadsticks
+Fried Chicken|Chicken Tenders|Buffalo Wings|Biscuits|Coleslaw|Mashed Potatoes|Mac and Cheese|Baked Beans|Curly Fries|Tater Tots
+Sub Sandwich|Footlong|Wrap|Salad|Soft Serve|McFlurry|Blizzard|Frosty|Apple Pie|Cinnamon Twists
+Drive-Thru|Value Meal|Kids' Meal|Combo|Super Size|Dipping Sauce|Ketchup Packet|Plastic Tray|Paper Crown|Ball Pit
+McDonald's|Burger King|Wendy's|Taco Bell|KFC|Subway|Chick-fil-A|Popeyes|Five Guys|In-N-Out
+Arby's|Sonic|Dairy Queen|Jack in the Box|Domino's|Pizza Hut|Chipotle|Panda Express|Starbucks|Dunkin'
+Shake Shack|Whataburger|White Castle|Carl's Jr.|Del Taco|Culver's|Wingstop|Jersey Mike's|Raising Cane's|Krispy Kreme
+
+== World Cuisine | say | Food & Drink | 🍜
+Sushi|Ramen|Tempura|Teriyaki|Miso Soup|Pho|Banh Mi|Spring Rolls|Pad Thai|Green Curry
+Dim Sum|Dumplings|Fried Rice|Kung Pao Chicken|Peking Duck|Sweet and Sour Pork|Egg Rolls|Hot Pot|Bibimbap|Kimchi
+Korean BBQ|Butter Chicken|Tikka Masala|Naan|Samosa|Biryani|Dal|Tandoori Chicken|Paneer|Chana Masala
+Tacos|Enchiladas|Tamales|Mole|Pozole|Ceviche|Empanadas|Arepas|Churrasco|Feijoada
+Pizza Margherita|Lasagna|Risotto|Carbonara|Gnocchi|Ravioli|Bruschetta|Calzone|Osso Buco|Prosciutto
+Croissant|Crêpe|Ratatouille|Coq au Vin|Escargot|Quiche Lorraine|French Onion Soup|Baguette|Bouillabaisse|Crème Brûlée
+Paella|Tapas|Gazpacho|Churros|Fish and Chips|Shepherd's Pie|Bangers and Mash|Haggis|Full English Breakfast|Yorkshire Pudding
+Bratwurst|Schnitzel|Pretzel|Sauerkraut|Goulash|Pierogi|Borscht|Gyro|Moussaka|Falafel
+Hummus|Shawarma|Kebab|Baklava|Jollof Rice|Injera|Poutine|Jerk Chicken|Cuban Sandwich|Philly Cheesesteak
+
+== Cities of the World | say | Places | 🏙️
+New York|Los Angeles|Chicago|Miami|Las Vegas|San Francisco|Seattle|Boston|New Orleans|Nashville
+Washington D.C.|Philadelphia|Atlanta|Dallas|Houston|Austin|Denver|Phoenix|Honolulu|Orlando
+Toronto|Vancouver|Montreal|Mexico City|Cancún|Havana|Rio de Janeiro|Buenos Aires|Lima|Bogotá
+London|Paris|Rome|Venice|Florence|Milan|Barcelona|Madrid|Lisbon|Amsterdam
+Berlin|Munich|Vienna|Prague|Budapest|Athens|Istanbul|Moscow|Dublin|Edinburgh
+Tokyo|Kyoto|Seoul|Beijing|Shanghai|Hong Kong|Singapore|Bangkok|Mumbai|New Delhi
+Dubai|Cairo|Cape Town|Marrakech|Nairobi|Sydney|Melbourne|Auckland|Reykjavík|Stockholm
+Copenhagen|Oslo|Brussels|Zurich|Geneva|Monaco|Hollywood|Salt Lake City|Detroit|Memphis
+
+== US States | say | Places | 🗺️
+Alabama|Alaska|Arizona|Arkansas|California|Colorado|Connecticut|Delaware|Florida|Georgia
+Hawaii|Idaho|Illinois|Indiana|Iowa|Kansas|Kentucky|Louisiana|Maine|Maryland
+Massachusetts|Michigan|Minnesota|Mississippi|Missouri|Montana|Nebraska|Nevada|New Hampshire|New Jersey
+New Mexico|New York|North Carolina|North Dakota|Ohio|Oklahoma|Oregon|Pennsylvania|Rhode Island|South Carolina
+South Dakota|Tennessee|Texas|Utah|Vermont|Virginia|Washington|West Virginia|Wisconsin|Wyoming
+
+== Famous Landmarks | say | Places | 🗽
+Eiffel Tower|Statue of Liberty|Great Wall of China|Taj Mahal|Colosseum|Leaning Tower of Pisa|Big Ben|Stonehenge|Pyramids of Giza|Sphinx
+Mount Rushmore|Golden Gate Bridge|Grand Canyon|Niagara Falls|Hollywood Sign|Empire State Building|White House|Lincoln Memorial|Space Needle|Times Square
+Sydney Opera House|Christ the Redeemer|Machu Picchu|Chichen Itza|Petra|Angkor Wat|Mount Everest|Mount Fuji|Burj Khalifa|Kremlin
+Buckingham Palace|Tower Bridge|London Eye|Arc de Triomphe|Louvre|Notre-Dame|Sagrada Família|Acropolis|Vatican|Sistine Chapel
+Neuschwanstein Castle|Brandenburg Gate|Berlin Wall|Easter Island Heads|Great Barrier Reef|Victoria Falls|Kilimanjaro|Uluru|Northern Lights|Dead Sea
+Yellowstone|Old Faithful|Alcatraz|Las Vegas Strip|Disneyland|Walt Disney World|Gateway Arch|Hoover Dam|Alamo|Liberty Bell
+Pentagon|Central Park|Brooklyn Bridge|Wrigley Field|Fenway Park|Graceland|Route 66|Mount Kilimanjaro|Leaning Tower|Forbidden City
+
+== Things at School | say | Places | 🏫
+Backpack|Locker|Pencil|Eraser|Ruler|Calculator|Notebook|Binder|Textbook|Highlighter
+Crayons|Markers|Glue Stick|Scissors|Protractor|Compass|Pencil Sharpener|Lunchbox|Water Bottle|Hall Pass
+Chalkboard|Whiteboard|Projector|Globe|Map|Desk|Bell|Cafeteria|Gym|Library
+Principal|Teacher|Substitute Teacher|Janitor|Lunch Lady|Bus Driver|Nurse's Office|Detention|Recess|Homework
+Pop Quiz|Report Card|Spelling Bee|Science Fair|Field Trip|Fire Drill|Yearbook|Prom|Graduation|Homecoming
+Show and Tell|Class Clown|Teacher's Pet|Valedictorian|Cheerleader|Marching Band|Mascot|Pep Rally|School Play|Talent Show
+Dodgeball|Kickball|Jungle Gym|Swing Set|Slide|Tetherball|Hopscotch|Snack Time|Nap Time|Summer Break
+
+== At the Airport | say | Places | ✈️
+Boarding Pass|Passport|Security Line|Metal Detector|Body Scanner|TSA|Carry-On|Checked Bag|Baggage Claim|Conveyor Belt
+Gate|Terminal|Runway|Control Tower|Jet Bridge|Departure Board|Delay|Cancellation|Layover|Red-Eye
+Pilot|Flight Attendant|Air Marshal|Gate Agent|Customs|Duty Free|Lounge|Moving Walkway|Shuttle Bus|Rental Car
+Window Seat|Aisle Seat|Middle Seat|Tray Table|Seat Belt Sign|Overhead Bin|Life Vest|Oxygen Mask|Barf Bag|Airplane Mode
+Peanuts|Pretzels|Jet Lag|Neck Pillow|Eye Mask|Earplugs|First Class|Economy|Upgrade|Frequent Flyer Miles
+Turbulence|Takeoff|Landing|Cockpit|Wing|Jet Engine|Luggage Tag|Lost Luggage|Pat-Down|Liquids Bag
+Wheelchair Assistance|Final Boarding Call|Priority Boarding|Airport Pretzel|Charging Station|Shoes Off|Travel Pillow|Rolling Suitcase|Souvenir Shop|Arrivals Hall

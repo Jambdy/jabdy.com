@@ -1,0 +1,80 @@
+== Ocean Life | say | Animals & Nature | 🐙
+Shark|Great White Shark|Hammerhead Shark|Whale Shark|Blue Whale|Humpback Whale|Killer Whale|Narwhal|Beluga|Dolphin
+Octopus|Squid|Jellyfish|Starfish|Sea Urchin|Sea Cucumber|Sea Anemone|Coral|Seahorse|Sea Turtle
+Crab|Lobster|Shrimp|Clam|Oyster|Mussel|Scallop|Hermit Crab|Barnacle|Krill
+Clownfish|Angelfish|Pufferfish|Swordfish|Marlin|Tuna|Salmon|Cod|Barracuda|Stingray
+Manta Ray|Electric Eel|Moray Eel|Anglerfish|Flying Fish|Sardine|Anchovy|Goldfish|Blowfish|Piranha
+Seal|Sea Lion|Walrus|Manatee|Sea Otter|Penguin|Pelican|Albatross|Seagull|Puffin
+Kelp|Seaweed|Plankton|Coral Reef|Shipwreck|Submarine|Scuba Diver|Treasure Chest|Mermaid|Kraken
+
+== Birds | say | Animals & Nature | 🦜
+Eagle|Bald Eagle|Hawk|Falcon|Owl|Vulture|Condor|Crow|Raven|Blue Jay
+Cardinal|Robin|Sparrow|Hummingbird|Woodpecker|Pigeon|Dove|Seagull|Pelican|Flamingo
+Parrot|Macaw|Cockatoo|Parakeet|Toucan|Peacock|Swan|Goose|Duck|Mallard
+Penguin|Ostrich|Emu|Kiwi|Dodo|Turkey|Chicken|Rooster|Quail|Pheasant
+Stork|Crane|Heron|Puffin|Albatross|Kingfisher|Cuckoo|Magpie|Canary|Finch
+Roadrunner|Kookaburra|Hornbill|Lovebird|Swallow|Starling|Oriole|Mockingbird|Woody Woodpecker|Big Bird
+Tweety|Zazu|Iago|Daffy Duck|Donald Duck|Angry Birds|Phoenix|Thunderbird|Bluebird|Snowy Owl
+
+== Bugs & Creepy Crawlies | say | Animals & Nature | 🐛
+Ant|Bee|Wasp|Hornet|Butterfly|Moth|Caterpillar|Ladybug|Beetle|Dragonfly
+Grasshopper|Cricket|Praying Mantis|Cockroach|Fly|Mosquito|Flea|Tick|Lice|Bed Bug
+Spider|Tarantula|Black Widow|Daddy Longlegs|Scorpion|Centipede|Millipede|Earthworm|Slug|Snail
+Termite|Firefly|Stink Bug|Stick Insect|Cicada|Weevil|Silkworm|Dung Beetle|Fire Ant|Killer Bee
+Spider Web|Cocoon|Beehive|Anthill|Honey|Swarm|Bug Spray|Fly Swatter|Bug Zapper|Ant Farm
+Queen Bee|Bumblebee|Monarch Butterfly|Gnat|Horsefly|Fruit Fly|Earwig|Pill Bug|Leech|Glow Worm
+Jiminy Cricket|Spider-Man|Ant-Man|The Very Hungry Caterpillar|Charlotte's Web|Bee Movie|A Bug's Life|Antz|James and the Giant Peach|The Fly
+
+== Dog Breeds | say | Animals & Nature | 🐕
+Labrador Retriever|Golden Retriever|German Shepherd|Bulldog|French Bulldog|Poodle|Beagle|Rottweiler|Dachshund|Chihuahua
+Pug|Boxer|Husky|Great Dane|Doberman|Shih Tzu|Yorkshire Terrier|Corgi|Pomeranian|Border Collie
+Dalmatian|Saint Bernard|Bloodhound|Basset Hound|Greyhound|Whippet|Chow Chow|Shar-Pei|Akita|Shiba Inu
+Maltese|Bichon Frise|Cocker Spaniel|Cavalier King Charles Spaniel|Jack Russell Terrier|Pit Bull|Mastiff|Newfoundland|Bernese Mountain Dog|Australian Shepherd
+Sheepdog|Collie|Irish Setter|Weimaraner|Vizsla|Pointer|Schnauzer|Scottish Terrier|West Highland Terrier|Boston Terrier
+Goldendoodle|Labradoodle|Cockapoo|Puggle|Mutt|Afghan Hound|Samoyed|Malamute|Bull Terrier|Papillon
+Lassie|Snoopy|Scooby-Doo|Clifford|Odie|Pluto|Goofy|Beethoven|Marley|Toto
+
+== Dinosaurs & Prehistoric | say | Animals & Nature | 🦖
+T-Rex|Triceratops|Stegosaurus|Velociraptor|Brontosaurus|Brachiosaurus|Pterodactyl|Ankylosaurus|Spinosaurus|Diplodocus
+Parasaurolophus|Iguanodon|Allosaurus|Pachycephalosaurus|Dilophosaurus|Mosasaurus|Plesiosaurus|Megalodon|Archaeopteryx|Gallimimus
+Woolly Mammoth|Saber-Toothed Tiger|Mastodon|Giant Sloth|Dire Wolf|Dodo|Caveman|Fossil|Amber|Asteroid
+Volcano|Ice Age|Jurassic Period|Cretaceous Period|Triassic Period|Extinction|Meteor|Dinosaur Egg|Dinosaur Bones|Footprint
+Paleontologist|Museum|Excavation|Skeleton|Tar Pits|Jurassic Park|The Land Before Time|Littlefoot|Barney|Rex from Toy Story
+Dino Nuggets|Yoshi|Godzilla|Dinosaur Costume|Fern|Swamp|Pangea|Raptor Claw|Roar|Herbivore
+Carnivore|Omnivore|Trilobite|Ammonite|Neanderthal|Stone Tools|Cave Painting|Fire|Spear|Mammoth Hunt
+
+== Weather & Nature | say | Animals & Nature | ⛈️
+Rain|Snow|Hail|Sleet|Thunder|Lightning|Tornado|Hurricane|Blizzard|Fog
+Rainbow|Sunshine|Cloud|Wind|Breeze|Heat Wave|Drought|Flood|Monsoon|Sandstorm
+Avalanche|Earthquake|Tsunami|Volcano|Wildfire|Mudslide|Icicle|Frost|Dew|Puddle
+Mountain|Valley|Canyon|Cliff|Cave|Waterfall|River|Lake|Pond|Ocean
+Desert|Jungle|Rainforest|Forest|Swamp|Glacier|Iceberg|Island|Beach|Meadow
+Sunrise|Sunset|Moon|Stars|Northern Lights|Eclipse|Shooting Star|Meteor Shower|Full Moon|Crescent Moon
+Snowflake|Snowman|Snow Angel|Raindrop|Umbrella|Weather Vane|Thermometer|Forecast|Meteorologist|Storm Chaser
+
+== Space | say | Animals & Nature | 🚀
+Sun|Moon|Earth|Mars|Venus|Mercury|Jupiter|Saturn|Uranus|Neptune
+Pluto|Asteroid|Comet|Meteor|Black Hole|Galaxy|Milky Way|Star|Supernova|Nebula
+Constellation|Big Dipper|Orion's Belt|North Star|Solar System|Universe|Big Bang|Gravity|Orbit|Light Year
+Astronaut|Rocket|Space Shuttle|Space Station|Satellite|Telescope|Hubble|Mars Rover|Spacesuit|Launch Pad
+NASA|SpaceX|Moon Landing|Apollo 11|Neil Armstrong|Buzz Aldrin|Countdown|Mission Control|Zero Gravity|Space Food
+Alien|UFO|Flying Saucer|Crop Circle|Area 51|Martian|Wormhole|Time Travel|Warp Speed|Death Star
+Eclipse|Solar Flare|Aurora|Crater|Rings of Saturn|Red Planet|Dwarf Planet|Planetarium|Astronomer|Horoscope
+
+== Plants & Flowers | say | Animals & Nature | 🌻
+Rose|Tulip|Daisy|Sunflower|Lily|Orchid|Daffodil|Lavender|Carnation|Violet
+Dandelion|Poppy|Lotus|Cherry Blossom|Hibiscus|Marigold|Peony|Hydrangea|Iris|Lilac
+Cactus|Aloe Vera|Venus Flytrap|Bamboo|Fern|Moss|Ivy|Poison Ivy|Clover|Four-Leaf Clover
+Oak Tree|Pine Tree|Palm Tree|Maple Tree|Willow Tree|Christmas Tree|Bonsai|Redwood|Weeping Willow|Apple Tree
+Seed|Sprout|Root|Stem|Leaf|Petal|Thorn|Pollen|Bouquet|Corsage
+Mistletoe|Holly|Pinecone|Acorn|Mushroom|Weed|Grass|Hedge|Vine|Tumbleweed
+Greenhouse|Garden|Flower Pot|Watering Can|Lawn Mower|Gardener|Compost|Fertilizer|Bird of Paradise|Snapdragon
+
+== Farm Life | say | Animals & Nature | 🚜
+Cow|Pig|Chicken|Rooster|Horse|Sheep|Goat|Duck|Turkey|Donkey
+Barn|Silo|Tractor|Hay Bale|Pitchfork|Scarecrow|Pigpen|Chicken Coop|Stable|Farmhouse
+Corn Field|Wheat|Pumpkin Patch|Apple Orchard|Vegetable Garden|Greenhouse|Windmill|Water Trough|Fence|Gate
+Farmer|Cowboy|Overalls|Straw Hat|Rubber Boots|Lasso|Saddle|Horseshoe|Wheelbarrow|Shovel
+Milking a Cow|Gathering Eggs|Shearing Sheep|Plowing|Harvest|Sunrise|Rooster Crow|County Fair|Blue Ribbon|Farmers Market
+Old MacDonald|Charlotte's Web|Babe|Chicken Run|Animal Farm|Mud|Manure|Hayride|Corn Maze|Combine Harvester
+Piglet|Calf|Foal|Lamb|Kid Goat|Chick|Duckling|Bull|Ox|Llama

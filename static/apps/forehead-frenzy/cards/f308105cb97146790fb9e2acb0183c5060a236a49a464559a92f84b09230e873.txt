@@ -1,0 +1,77 @@
+== Musicians & Bands | say | Music | 🎸
+The Beatles|The Rolling Stones|Queen|Led Zeppelin|Pink Floyd|AC/DC|Nirvana|Metallica|Guns N' Roses|Aerosmith
+U2|Coldplay|Radiohead|Oasis|Green Day|Foo Fighters|Red Hot Chili Peppers|Pearl Jam|Bon Jovi|KISS
+ABBA|Bee Gees|Fleetwood Mac|The Eagles|The Beach Boys|Journey|Def Leppard|Van Halen|The Doors|The Who
+Taylor Swift|Beyoncé|Rihanna|Adele|Lady Gaga|Katy Perry|Ariana Grande|Billie Eilish|Dua Lipa|Olivia Rodrigo
+Michael Jackson|Madonna|Prince|Elvis Presley|Whitney Houston|Mariah Carey|Celine Dion|Britney Spears|Christina Aguilera|Justin Timberlake
+Ed Sheeran|Bruno Mars|The Weeknd|Harry Styles|Shawn Mendes|Justin Bieber|Post Malone|Drake|Eminem|Kendrick Lamar
+Backstreet Boys|NSYNC|Spice Girls|One Direction|BTS|Destiny's Child|Jonas Brothers|New Kids on the Block|Boyz II Men|TLC
+Elton John|Billy Joel|Bruce Springsteen|Bob Dylan|Johnny Cash|Dolly Parton|Garth Brooks|Shania Twain|Willie Nelson|Luke Combs
+Imagine Dragons|Maroon 5|Linkin Park|Blink-182|Fall Out Boy|Paramore|The Killers|Arctic Monkeys|Twenty One Pilots|Daft Punk
+
+== Pop Stars | say | Music | 🎤
+Taylor Swift|Beyoncé|Rihanna|Lady Gaga|Katy Perry|Ariana Grande|Billie Eilish|Dua Lipa|Olivia Rodrigo|Sabrina Carpenter
+Doja Cat|Lizzo|SZA|Miley Cyrus|Selena Gomez|Demi Lovato|Camila Cabello|Halsey|Charli XCX|Chappell Roan
+Harry Styles|Ed Sheeran|Bruno Mars|The Weeknd|Justin Bieber|Shawn Mendes|Lewis Capaldi|Sam Smith|Charlie Puth|Jason Derulo
+Britney Spears|Christina Aguilera|Jessica Simpson|Mandy Moore|Avril Lavigne|Kelly Clarkson|Pink|Fergie|Nelly Furtado|Gwen Stefani
+Mariah Carey|Whitney Houston|Janet Jackson|Paula Abdul|Cyndi Lauper|Madonna|Kylie Minogue|Cher|Tina Turner|Celine Dion
+Justin Timberlake|Usher|Ne-Yo|Chris Brown|Enrique Iglesias|Ricky Martin|Shakira|Jennifer Lopez|Pitbull|Marc Anthony
+Bad Bunny|Karol G|Rosalía|Lil Nas X|Troye Sivan|Conan Gray|Tate McRae|Benson Boone|Gracie Abrams|Hozier
+Adele|Amy Winehouse|Lorde|Sia|Ellie Goulding|Jessie J|Meghan Trainor|Zara Larsson|Rita Ora|Raye
+
+== Rappers & Hip-Hop | say | Music | 🎧
+Eminem|Drake|Kendrick Lamar|Jay-Z|Kanye West|Snoop Dogg|Dr. Dre|Ice Cube|Tupac|The Notorious B.I.G.
+Nicki Minaj|Cardi B|Megan Thee Stallion|Missy Elliott|Lil' Kim|Queen Latifah|Lauryn Hill|Doja Cat|Ice Spice|Latto
+50 Cent|Lil Wayne|Nas|Busta Rhymes|DMX|LL Cool J|Will Smith|Run-DMC|Beastie Boys|Wu-Tang Clan
+Travis Scott|Post Malone|J. Cole|Tyler, the Creator|Future|Lil Uzi Vert|Young Thug|21 Savage|Lil Baby|Gunna
+Outkast|Ludacris|Nelly|T.I.|Pharrell|Kid Cudi|Childish Gambino|Chance the Rapper|Mac Miller|Logic
+Vanilla Ice|MC Hammer|Coolio|Sir Mix-a-Lot|Salt-N-Pepa|Flavor Flav|Public Enemy|N.W.A|Eazy-E|Wiz Khalifa
+Lil Nas X|Juice WRLD|XXXTentacion|A$AP Rocky|Big Sean|Meek Mill|Rick Ross|Pitbull|Flo Rida|Macklemore
+
+== Musical Instruments | say | Music | 🎺
+Piano|Guitar|Electric Guitar|Bass Guitar|Drums|Violin|Viola|Cello|Double Bass|Harp
+Trumpet|Trombone|French Horn|Tuba|Saxophone|Clarinet|Flute|Piccolo|Oboe|Bassoon
+Harmonica|Accordion|Bagpipes|Banjo|Ukulele|Mandolin|Sitar|Kazoo|Recorder|Pan Flute
+Xylophone|Glockenspiel|Triangle|Tambourine|Maracas|Cowbell|Bongos|Congas|Steel Drum|Timpani
+Gong|Cymbals|Snare Drum|Bass Drum|Washboard|Spoons|Didgeridoo|Theremin|Synthesizer|Keytar
+Organ|Pipe Organ|Harpsichord|Electric Piano|Turntables|Drum Machine|Lute|Lyre|Zither|Dulcimer
+Bugle|Sousaphone|Castanets|Wind Chimes|Jaw Harp|Ocarina|Bells|Kalimba|Cajón|Shaker
+
+== Famous People in History | say | People | 📜
+George Washington|Abraham Lincoln|Benjamin Franklin|Thomas Jefferson|Martin Luther King Jr.|Rosa Parks|Harriet Tubman|Frederick Douglass|John F. Kennedy|Franklin D. Roosevelt
+Albert Einstein|Isaac Newton|Galileo|Charles Darwin|Marie Curie|Nikola Tesla|Thomas Edison|Alexander Graham Bell|The Wright Brothers|Henry Ford
+Cleopatra|Julius Caesar|Alexander the Great|Napoleon|Genghis Khan|King Tut|Joan of Arc|Queen Elizabeth I|Queen Victoria|Henry VIII
+Leonardo da Vinci|Michelangelo|Pablo Picasso|Vincent van Gogh|William Shakespeare|Mozart|Beethoven|Charles Dickens|Mark Twain|Edgar Allan Poe
+Christopher Columbus|Marco Polo|Neil Armstrong|Amelia Earhart|Lewis and Clark|Ferdinand Magellan|Sacagawea|Pocahontas|Davy Crockett|Daniel Boone
+Gandhi|Nelson Mandela|Mother Teresa|Winston Churchill|Florence Nightingale|Helen Keller|Anne Frank|Susan B. Anthony|Eleanor Roosevelt|Malcolm X
+Socrates|Plato|Aristotle|Confucius|Buddha|Moses|Noah|Elvis Presley|Marilyn Monroe|Charlie Chaplin
+Walt Disney|Steve Jobs|Princess Diana|Babe Ruth|Muhammad Ali|Jackie Robinson|Jesse Owens|Billy the Kid|Wyatt Earp|Al Capone
+Paul Revere|Betsy Ross|Alexander Hamilton|Theodore Roosevelt|Ulysses S. Grant|Robert E. Lee|Rasputin|Catherine the Great|Attila the Hun|Leif Erikson
+
+== Athletes | say | People | 🏅
+Michael Jordan|LeBron James|Kobe Bryant|Stephen Curry|Shaquille O'Neal|Magic Johnson|Larry Bird|Kevin Durant|Giannis Antetokounmpo|Caitlin Clark
+Tom Brady|Peyton Manning|Patrick Mahomes|Travis Kelce|Jerry Rice|Joe Montana|Aaron Rodgers|Odell Beckham Jr.|Deion Sanders|Brett Favre
+Babe Ruth|Derek Jeter|Shohei Ohtani|Aaron Judge|Jackie Robinson|Hank Aaron|Ken Griffey Jr.|Alex Rodriguez|Barry Bonds|Mickey Mantle
+Lionel Messi|Cristiano Ronaldo|Pelé|Diego Maradona|David Beckham|Neymar|Kylian Mbappé|Megan Rapinoe|Mia Hamm|Zinedine Zidane
+Serena Williams|Venus Williams|Roger Federer|Rafael Nadal|Novak Djokovic|Andre Agassi|John McEnroe|Billie Jean King|Coco Gauff|Naomi Osaka
+Tiger Woods|Jack Nicklaus|Arnold Palmer|Phil Mickelson|Rory McIlroy|Michael Phelps|Katie Ledecky|Simone Biles|Usain Bolt|Carl Lewis
+Wayne Gretzky|Sidney Crosby|Alex Ovechkin|Mario Lemieux|Muhammad Ali|Mike Tyson|Floyd Mayweather|Conor McGregor|Ronda Rousey|Tony Hawk
+Shaun White|Lindsey Vonn|Dale Earnhardt|Lewis Hamilton|Danica Patrick|Lance Armstrong|Hulk Hogan|John Cena|The Rock|Steve Austin
+
+== Comedians | say | People | 😂
+Kevin Hart|Dave Chappelle|Chris Rock|Eddie Murphy|Jerry Seinfeld|Larry David|Adam Sandler|Chris Farley|Will Ferrell|Jim Carrey
+Robin Williams|Steve Martin|Richard Pryor|George Carlin|Joan Rivers|Lucille Ball|Carol Burnett|Ellen DeGeneres|Tina Fey|Amy Poehler
+Maya Rudolph|Kristen Wiig|Melissa McCarthy|Rebel Wilson|Amy Schumer|Ali Wong|Sarah Silverman|Wanda Sykes|Mindy Kaling|Leslie Jones
+Jimmy Fallon|Jimmy Kimmel|Conan O'Brien|Stephen Colbert|Jon Stewart|John Oliver|Trevor Noah|David Letterman|Jay Leno|Johnny Carson
+Steve Carell|Seth Rogen|Jonah Hill|Zach Galifianakis|Ken Jeong|Jack Black|Ben Stiller|Owen Wilson|Vince Vaughn|Paul Rudd
+John Mulaney|Bo Burnham|Nate Bargatze|Jim Gaffigan|Sebastian Maniscalco|Gabriel Iglesias|Bill Burr|Ricky Gervais|Russell Brand|Jerry Lewis
+Mike Myers|Dana Carvey|Bill Murray|Dan Aykroyd|John Belushi|Chevy Chase|Martin Short|Andy Samberg|Pete Davidson|Keegan-Michael Key
+
+== Famous Duos | say | People | 👯
+Batman and Robin|Peanut Butter and Jelly|Romeo and Juliet|Bonnie and Clyde|Tom and Jerry|Mario and Luigi|Sonny and Cher|Simon and Garfunkel|Mickey and Minnie|Lilo and Stitch
+Salt and Pepper|Bert and Ernie|SpongeBob and Patrick|Timon and Pumbaa|Woody and Buzz|Shrek and Donkey|Sherlock and Watson|Han Solo and Chewbacca|R2-D2 and C-3PO|Frodo and Sam
+Ben and Jerry|Laurel and Hardy|Abbott and Costello|Penn and Teller|Siegfried and Roy|Key and Peele|Cheech and Chong|Wayne and Garth|Bill and Ted|Jay and Silent Bob
+Thelma and Louise|Mary-Kate and Ashley|Venus and Serena|Lewis and Clark|Adam and Eve|Jack and Jill|Hansel and Gretel|Beauty and the Beast|Lady and the Tramp|Wallace and Gromit
+Phineas and Ferb|Rick and Morty|Pinky and the Brain|Ren and Stimpy|Beavis and Butt-Head|Scooby and Shaggy|Rocky and Bullwinkle|Chip and Dale|Kermit and Miss Piggy|Fred and Wilma
+Milk and Cookies|Fish and Chips|Macaroni and Cheese|Bacon and Eggs|Chips and Salsa|Rock and Roll|Thunder and Lightning|Bread and Butter|Hide and Seek|Cops and Robbers
+Kim and Kanye|Beyoncé and Jay-Z|Brad and Angelina|Barack and Michelle|Prince William and Kate|Harry and Meghan|Ross and Rachel|Jim and Pam|Leslie and Ben|Mulder and Scully

@@ -1,0 +1,18 @@
+{
+  "format": 1,
+  "version": 1,
+  "files": {
+    "01_classics.txt": "55db96c169b9cb92209630dfeb4d2d6f5fb58ad73703ad15fd1510b4c259d837",
+    "02_charades.txt": "8dcd9d5fd2145fd880220c0662a239e436be1d8f7dd90f3ce89aab4f2444d83d",
+    "03_impressions_sounds.txt": "32663022623d7710cdc938dda6b5220a57e6f698efb0f8cb0506f835240339a0",
+    "04_movies_tv.txt": "f36c79e321c50faba433fe714f024e806bf25334cbd769b1852317c0218d2c8f",
+    "05_music_people.txt": "f308105cb97146790fb9e2acb0183c5060a236a49a464559a92f84b09230e873",
+    "06_food_places.txt": "29672001c4b582e5b5bbee39ede96a469845c39073fac2a3f855deb144570e90",
+    "07_nature.txt": "b76ce836881ead14320bd90fa451e340885da203092f7d66385168bca7d8d3e3",
+    "08_pop_culture.txt": "85ce527f3921e92893deca8cf2e55c9dd5cd1abf34c98e163fc0b4954fc2233a",
+    "09_throwback_holidays.txt": "50d784881f5afe0603631721390741b0931545f3ad308c9e9958725ed51807f0",
+    "10_life.txt": "b1c1c7d2b6bd4f944bf8e5fff0b14ef24aed2603f8dcce741155712503564bc4",
+    "11_things_kids.txt": "29d12391be0fd4af3d24de5995986bcf7390cc09733a0590e34fd9eba9f261eb",
+    "12_fandoms.txt": "a40c82babb02bf8df7fc3b931812cb1ef3574820ce3cd1bc203ce22bbc8d4ada"
+  }
+}

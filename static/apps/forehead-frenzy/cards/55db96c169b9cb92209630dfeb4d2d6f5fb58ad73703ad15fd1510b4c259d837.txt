@@ -1,0 +1,100 @@
+# == Name | mode (say/act/impress/hum/sound) | Group | emoji
+# Clues separated by | and/or new lines.
+
+== Animals | say | Animals & Nature | 🐘
+Lion|Tiger|Elephant|Giraffe|Zebra|Kangaroo|Penguin|Dolphin|Shark|Octopus|Gorilla|Monkey|Sloth|Koala|Panda
+Polar Bear|Grizzly Bear|Wolf|Fox|Raccoon|Skunk|Squirrel|Chipmunk|Beaver|Porcupine|Hedgehog|Armadillo|Camel|Llama|Alpaca
+Hippo|Rhino|Crocodile|Alligator|Snake|Turtle|Frog|Chameleon|Iguana|Bat|Owl|Eagle|Parrot|Flamingo|Peacock
+Ostrich|Swan|Duck|Goose|Chicken|Turkey|Cow|Pig|Horse|Donkey|Goat|Sheep|Rabbit|Hamster|Guinea Pig
+Mouse|Rat|Cat|Dog|Cheetah|Leopard|Hyena|Meerkat|Warthog|Moose|Deer|Bison|Otter|Seal|Walrus
+Whale|Jellyfish|Starfish|Crab|Lobster|Seahorse|Butterfly|Bee|Ant|Spider|Scorpion|Ladybug|Snail|Worm|Platypus
+
+== Famous Celebrities | say | People | 🌟
+Taylor Swift|Beyoncé|Oprah Winfrey|Tom Hanks|Dwayne "The Rock" Johnson|Kim Kardashian|Lady Gaga|Leonardo DiCaprio|Brad Pitt|Jennifer Aniston
+Will Smith|Rihanna|Ariana Grande|Justin Bieber|Selena Gomez|Kanye West|Drake|Ryan Reynolds|Zendaya|Tom Cruise
+Johnny Depp|Morgan Freeman|Keanu Reeves|Jennifer Lopez|Shakira|Ed Sheeran|Adele|Billie Eilish|Harry Styles|Snoop Dogg
+Martha Stewart|Gordon Ramsay|Ellen DeGeneres|Jimmy Fallon|Kevin Hart|Jack Black|Jim Carrey|Adam Sandler|Will Ferrell|Steve Carell
+Margot Robbie|Scarlett Johansson|Meryl Streep|Julia Roberts|Sandra Bullock|Nicole Kidman|Denzel Washington|Samuel L. Jackson|Arnold Schwarzenegger|Sylvester Stallone
+Elon Musk|Mark Zuckerberg|Jeff Bezos|Bill Gates|Michelle Obama|Barack Obama|David Beckham|Serena Williams|LeBron James|Tom Brady
+Dolly Parton|Cher|Madonna|Elton John|Paul McCartney|Mick Jagger|Lizzo|Bad Bunny|Post Malone|Miley Cyrus
+Pedro Pascal|Timothée Chalamet|Jennifer Lawrence|Emma Stone|Chris Hemsworth|Chris Pratt|Robert Downey Jr.|Hugh Jackman|Danny DeVito|Betty White
+MrBeast|Gwyneth Paltrow|Paris Hilton|Kylie Jenner|Jason Momoa|Nicolas Cage|Keira Knightley|Anne Hathaway|Sabrina Carpenter|Olivia Rodrigo
+
+== Movies | say | Movies & TV | 🎬
+Titanic|Jaws|Star Wars|Jurassic Park|The Lion King|Frozen|Toy Story|Finding Nemo|Shrek|Home Alone
+The Wizard of Oz|E.T.|Back to the Future|Ghostbusters|Forrest Gump|The Matrix|Avatar|The Avengers|Spider-Man|Batman
+Harry Potter|The Lord of the Rings|Pirates of the Caribbean|Mean Girls|Grease|Dirty Dancing|The Godfather|Rocky|Top Gun|Mission: Impossible
+Barbie|Oppenheimer|Inception|Gladiator|Braveheart|Pulp Fiction|Fight Club|The Shining|Psycho|Scream
+The Notebook|Pretty Woman|Clueless|Legally Blonde|The Princess Bride|Elf|Frozen II|Moana|Coco|Up
+Ratatouille|Cars|Monsters, Inc.|The Incredibles|Minions|Despicable Me|Kung Fu Panda|Madagascar|Ice Age|Zootopia
+Jumanji|The Hunger Games|Twilight|Fast & Furious|Transformers|King Kong|Godzilla|Rambo|Die Hard|Terminator
+The Sound of Music|Mary Poppins|Ferris Bueller's Day Off|The Breakfast Club|Napoleon Dynamite|Anchorman|Superbad|Bridesmaids|The Hangover|Step Brothers
+Free Willy|Beethoven|Matilda|Mrs. Doubtfire|Space Jam|Hocus Pocus|Beetlejuice|Edward Scissorhands|Wicked|Dune
+
+== TV Shows | say | Movies & TV | 📺
+Friends|The Office|Seinfeld|The Simpsons|Family Guy|SpongeBob SquarePants|Game of Thrones|Breaking Bad|Stranger Things|The Walking Dead
+Grey's Anatomy|Survivor|The Bachelor|American Idol|The Voice|Jeopardy!|Wheel of Fortune|Sesame Street|Full House|Saved by the Bell
+How I Met Your Mother|The Big Bang Theory|Modern Family|Parks and Recreation|Brooklyn Nine-Nine|Ted Lasso|Squid Game|Wednesday|The Crown|Bridgerton
+Law & Order|CSI|NCIS|The Sopranos|Mad Men|Lost|Glee|Gossip Girl|Gilmore Girls|Sex and the City
+The Fresh Prince of Bel-Air|Scooby-Doo|Pokémon|Rugrats|Hannah Montana|iCarly|Wizards of Waverly Place|Lizzie McGuire|Power Rangers|Teletubbies
+The Mandalorian|Yellowstone|Succession|The Bear|Shark Tank|Top Chef|Hell's Kitchen|MasterChef|Love Island|Keeping Up with the Kardashians
+Saturday Night Live|The Tonight Show|Cheers|M*A*S*H|I Love Lucy|Gilligan's Island|The Brady Bunch|Happy Days|The X-Files|Twin Peaks
+Doctor Who|Sherlock|Downton Abbey|The Great British Bake Off|Bluey|Peppa Pig|Paw Patrol|Dora the Explorer|Arthur|Barney
+South Park|Rick and Morty|Bob's Burgers|King of the Hill|Futurama|Avatar: The Last Airbender|Baywatch|Dexter|House|Scrubs
+
+== Food | say | Food & Drink | 🍕
+Pizza|Hamburger|Hot Dog|Taco|Burrito|Sushi|Spaghetti|Lasagna|Mac and Cheese|Grilled Cheese
+French Fries|Chicken Nuggets|Fried Chicken|Steak|Meatloaf|Mashed Potatoes|Pancakes|Waffles|French Toast|Omelet
+Bacon|Sausage|Cereal|Oatmeal|Bagel|Croissant|Toast|Peanut Butter|Jelly|Sandwich
+Soup|Salad|Chili|Ramen|Dumplings|Fried Rice|Pad Thai|Curry|Kebab|Falafel
+Nachos|Quesadilla|Enchilada|Guacamole|Salsa|Popcorn|Pretzel|Chips|Corn Dog|Meatballs
+Shrimp|Lobster|Crab Legs|Salmon|Tuna|Fish and Chips|Clam Chowder|Oysters|Calamari|Caesar Salad
+Lettuce|Broccoli|Carrot|Corn on the Cob|Potato|Tomato|Onion|Garlic|Mushroom|Cucumber
+Avocado|Banana|Apple|Orange|Grapes|Strawberry|Watermelon|Pineapple|Mango|Coconut
+Cheese|Butter|Eggs|Yogurt|Ketchup|Mustard|Mayonnaise|Hot Sauce|Pickles|Ice Cream
+
+== Sports | say | Life & Stuff | ⚽
+Soccer|Basketball|Baseball|Football|Hockey|Tennis|Golf|Volleyball|Bowling|Boxing
+Wrestling|Swimming|Diving|Gymnastics|Figure Skating|Skiing|Snowboarding|Surfing|Skateboarding|Cycling
+Track and Field|Marathon|Pole Vault|High Jump|Javelin|Archery|Fencing|Rowing|Sailing|Kayaking
+Rugby|Cricket|Lacrosse|Badminton|Table Tennis|Pickleball|Squash|Handball|Water Polo|Polo
+Horse Racing|NASCAR|Formula 1|Bobsled|Curling|Luge|Ski Jumping|Rock Climbing|Karate|Judo
+Taekwondo|Sumo Wrestling|Weightlifting|CrossFit|Triathlon|Darts|Billiards|Dodgeball|Kickball|Ultimate Frisbee
+Cornhole|Disc Golf|Mini Golf|Bull Riding|Rodeo|Fishing|Hunting|Parkour|BMX|Roller Derby
+
+== Jobs | say | Life & Stuff | 👷
+Doctor|Nurse|Teacher|Firefighter|Police Officer|Chef|Waiter|Pilot|Flight Attendant|Astronaut
+Lawyer|Judge|Dentist|Veterinarian|Farmer|Plumber|Electrician|Carpenter|Mechanic|Construction Worker
+Mail Carrier|Librarian|Scientist|Engineer|Architect|Accountant|Banker|Cashier|Barista|Bartender
+Hairdresser|Barber|Personal Trainer|Lifeguard|Coach|Referee|Photographer|Journalist|News Anchor|Weatherman
+Actor|Singer|DJ|Magician|Clown|Painter|Sculptor|Fashion Designer|Model|Tattoo Artist
+Soldier|Spy|Detective|Security Guard|Bodyguard|Taxi Driver|Bus Driver|Truck Driver|Garbage Collector|Janitor
+Zookeeper|Dog Walker|Babysitter|Nanny|Real Estate Agent|Salesperson|Programmer|Influencer|Youtuber|Priest
+Surgeon|Pharmacist|Paramedic|Therapist|Psychiatrist|Dietitian|Florist|Baker|Butcher|Butler
+
+== Household Objects | say | Life & Stuff | 🏠
+Couch|Chair|Table|Bed|Pillow|Blanket|Lamp|Rug|Curtains|Mirror
+Television|Remote Control|Bookshelf|Clock|Alarm Clock|Picture Frame|Vase|Candle|Doormat|Coat Hanger
+Toothbrush|Toothpaste|Hairbrush|Hair Dryer|Towel|Shower Curtain|Bathtub|Toilet Paper|Plunger|Scale
+Refrigerator|Microwave|Oven|Toaster|Blender|Dishwasher|Kettle|Coffee Maker|Sink|Trash Can
+Vacuum Cleaner|Broom|Mop|Dustpan|Laundry Basket|Washing Machine|Dryer|Iron|Ironing Board|Clothespin
+Light Bulb|Light Switch|Smoke Detector|Thermostat|Ceiling Fan|Air Conditioner|Space Heater|Fireplace|Doorbell|Mailbox
+Key|Lock|Flashlight|Battery|Extension Cord|Hammer|Screwdriver|Tape Measure|Ladder|Toolbox
+Umbrella|Shoe Rack|Closet|Dresser|Nightstand|Bunk Bed|Crib|Rocking Chair|Hammock|Bean Bag
+
+== Countries | say | Places | 🌍
+United States|Canada|Mexico|Brazil|Argentina|Chile|Peru|Colombia|Cuba|Jamaica
+United Kingdom|Ireland|France|Germany|Italy|Spain|Portugal|Netherlands|Belgium|Switzerland
+Sweden|Norway|Finland|Denmark|Iceland|Poland|Greece|Turkey|Russia|Ukraine
+Egypt|Morocco|Kenya|Nigeria|South Africa|Ethiopia|Madagascar|Ghana|Tanzania|Zimbabwe
+China|Japan|South Korea|North Korea|India|Pakistan|Thailand|Vietnam|Philippines|Indonesia
+Australia|New Zealand|Fiji|Saudi Arabia|Israel|Iran|Iraq|Afghanistan|Nepal|Mongolia
+Austria|Hungary|Czech Republic|Croatia|Scotland|Wales|Singapore|Malaysia|Bahamas|Puerto Rico
+
+== Things at the Beach | say | Places | 🏖️
+Sand|Seashell|Sandcastle|Bucket and Spade|Beach Towel|Beach Umbrella|Sunscreen|Sunglasses|Flip-Flops|Swimsuit
+Bikini|Surfboard|Boogie Board|Lifeguard Tower|Waves|Seagull|Crab|Starfish|Jellyfish|Seaweed
+Pier|Boardwalk|Ice Cream Truck|Cooler|Beach Ball|Frisbee|Volleyball Net|Kite|Snorkel|Flippers
+Sunburn|Tan Lines|Low Tide|High Tide|Lighthouse|Sailboat|Jet Ski|Pelican|Driftwood|Message in a Bottle
+Hammock|Palm Tree|Coconut|Tiki Bar|Piña Colada|Sand Dollar|Shark Fin|Metal Detector|Pool Noodle|Inflatable Flamingo
+Sunset|Bonfire|Hermit Crab|Beach Chair|Tide Pool|Sand in Your Shoes|Rip Current|Seaside Arcade|Fish Tacos|Lemonade Stand

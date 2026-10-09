@@ -29,6 +29,7 @@ jobs:
         run: |
           aws s3 sync ./public s3://jabdy.com --exclude '*.html' --no-progress
           aws s3 cp ./public s3://jabdy.com --recursive --exclude '*' --include '*.html' --content-type 'text/html; charset=utf-8' --cache-control 'public,max-age=0,must-revalidate' --no-progress
+          aws s3 cp ./public/apps s3://jabdy.com/apps --recursive --exclude '*' --include '*/manifest.json' --content-type 'application/json' --cache-control 'public,max-age=300' --no-progress
           while IFS= read -r path; do
             aws s3 rm "s3://jabdy.com/$path"
           done < scripts/retired-assets.txt

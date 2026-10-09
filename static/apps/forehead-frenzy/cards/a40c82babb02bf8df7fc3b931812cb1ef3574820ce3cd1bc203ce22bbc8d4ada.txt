@@ -1,0 +1,65 @@
+# == Name | mode (say/act/impress/hum/sound) | Group | emoji
+# Clues separated by | and/or new lines.
+
+== Pokémon: Gen 1 | say | Fandoms | ⚡
+Bulbasaur|Ivysaur|Venusaur|Charmander|Charmeleon|Charizard|Squirtle|Wartortle|Blastoise|Caterpie
+Metapod|Butterfree|Weedle|Kakuna|Beedrill|Pidgey|Pidgeotto|Pidgeot|Rattata|Raticate
+Spearow|Fearow|Ekans|Arbok|Pikachu|Raichu|Sandshrew|Sandslash|Nidoran (Female)|Nidorina
+Nidoqueen|Nidoran (Male)|Nidorino|Nidoking|Clefairy|Clefable|Vulpix|Ninetales|Jigglypuff|Wigglytuff
+Zubat|Golbat|Oddish|Gloom|Vileplume|Paras|Parasect|Venonat|Venomoth|Diglett
+Dugtrio|Meowth|Persian|Psyduck|Golduck|Mankey|Primeape|Growlithe|Arcanine|Poliwag
+Poliwhirl|Poliwrath|Abra|Kadabra|Alakazam|Machop|Machoke|Machamp|Bellsprout|Weepinbell
+Victreebel|Tentacool|Tentacruel|Geodude|Graveler|Golem|Ponyta|Rapidash|Slowpoke|Slowbro
+Magnemite|Magneton|Farfetch'd|Doduo|Dodrio|Seel|Dewgong|Grimer|Muk|Shellder
+Cloyster|Gastly|Haunter|Gengar|Onix|Drowzee|Hypno|Krabby|Kingler|Voltorb
+Electrode|Exeggcute|Exeggutor|Cubone|Marowak|Hitmonlee|Hitmonchan|Lickitung|Koffing|Weezing
+Rhyhorn|Rhydon|Chansey|Tangela|Kangaskhan|Horsea|Seadra|Goldeen|Seaking|Staryu
+Starmie|Mr. Mime|Scyther|Jynx|Electabuzz|Magmar|Pinsir|Tauros|Magikarp|Gyarados
+Lapras|Ditto|Eevee|Vaporeon|Jolteon|Flareon|Porygon|Omanyte|Omastar|Kabuto
+Kabutops|Aerodactyl|Snorlax|Articuno|Zapdos|Moltres|Dratini|Dragonair|Dragonite|Mewtwo
+Mew
+
+== Star Wars Characters | say | Fandoms | 🌌
+Luke Skywalker|Princess Leia|Han Solo|Chewbacca|Darth Vader|Obi-Wan Kenobi|Yoda|R2-D2|C-3PO|Emperor Palpatine
+Lando Calrissian|Boba Fett|Jabba the Hutt|Anakin Skywalker|Padmé Amidala|Qui-Gon Jinn|Darth Maul|Mace Windu|Count Dooku|General Grievous
+Jar Jar Binks|Jango Fett|Rey|Finn|Poe Dameron|Kylo Ren|BB-8|Supreme Leader Snoke|General Hux|Captain Phasma
+Rose Tico|Maz Kanata|Grogu (Baby Yoda)|The Mandalorian|Ahsoka Tano|Captain Rex|Cassian Andor|Jyn Erso|K-2SO|Director Krennic
+Grand Moff Tarkin|Admiral Ackbar|Wedge Antilles|Wicket the Ewok|Greedo|Bossk|IG-88|IG-11|Moff Gideon|Cara Dune
+Greef Karga|Bo-Katan Kryze|Fennec Shand|Cad Bane|Asajj Ventress|Kanan Jarrus|Ezra Bridger|Hera Syndulla|Sabine Wren|Grand Admiral Thrawn
+Saw Gerrera|Mon Mothma|Bail Organa|Shmi Skywalker|Watto|Sebulba|Uncle Owen|Aunt Beru|Nien Nunb|Admiral Piett
+Plo Koon|Kit Fisto|Aayla Secura|Ki-Adi-Mundi|Cal Kestis|Chirrut Îmwe|Baze Malbus|Bodhi Rook|Galen Erso|Qi'ra
+Tobias Beckett|L3-37|Vice Admiral Holdo|Babu Frik|Zorii Bliss|Nute Gunray|Max Rebo|Salacious Crumb|Bib Fortuna|The Armorer
+Peli Motto|Cobb Vanth|The Grand Inquisitor|Darth Plagueis|Luthen Rael|Stormtrooper|Clone Trooper|Battle Droid|Jawa|Tusken Raider
+Ewok|Porg|Rancor|Wampa|Gamorrean Guard|Chopper|Zeb Orrelios|Dengar|Zam Wesell|Dexter Jettster
+
+== Harry Potter | say | Fandoms | 🪄
+Harry Potter|Hermione Granger|Ron Weasley|Albus Dumbledore|Lord Voldemort|Severus Snape|Rubeus Hagrid|Draco Malfoy|Sirius Black|Minerva McGonagall
+Neville Longbottom|Luna Lovegood|Ginny Weasley|Fred and George|Dobby|Bellatrix Lestrange|Dolores Umbridge|Remus Lupin|Lucius Malfoy|Cedric Diggory
+Cho Chang|Gilderoy Lockhart|Mad-Eye Moody|Peter Pettigrew|Argus Filch|Nearly Headless Nick|Moaning Myrtle|Hedwig|Fawkes|Buckbeak
+Crookshanks|Fluffy|Nagini|Dementor|House-Elf|Hippogriff|Basilisk|Thestral|Mandrake|Golden Snitch
+Quidditch|Bludger|Nimbus 2000|Firebolt|Sorting Hat|Invisibility Cloak|Marauder's Map|Elder Wand|Resurrection Stone|Horcrux
+Philosopher's Stone|Time-Turner|Howler|Pensieve|Deluminator|Butterbeer|Bertie Bott's Beans|Chocolate Frog|Polyjuice Potion|Felix Felicis
+Hogwarts|Gryffindor|Slytherin|Hufflepuff|Ravenclaw|Diagon Alley|Hogsmeade|Platform 9¾|Hogwarts Express|The Burrow
+Azkaban|Gringotts|The Forbidden Forest|The Great Hall|Room of Requirement|Ministry of Magic|Knockturn Alley|The Leaky Cauldron|Privet Drive|Shrieking Shack
+Expelliarmus|Wingardium Leviosa|Expecto Patronum|Avada Kedavra|Lumos|Alohomora|Accio|Stupefy|Obliviate|Riddikulus
+Muggle|Mudblood|Death Eater|Order of the Phoenix|Triwizard Tournament|Patronus|Animagus|Squib|Dursleys|Mirror of Erised
+
+== Nintendo | say | Fandoms | 🍄
+Mario|Luigi|Princess Peach|Bowser|Yoshi|Toad|Donkey Kong|Diddy Kong|Wario|Waluigi
+Princess Daisy|Rosalina|Bowser Jr.|Koopa Troopa|Goomba|Shy Guy|Boo|Piranha Plant|Bullet Bill|Lakitu
+Link|Zelda|Ganon|Navi|Epona|Kirby|King Dedede|Meta Knight|Samus|Metroid
+Fox McCloud|Falco|Captain Falcon|Ness|Pikachu|Isabelle|Tom Nook|Villager|Inkling|Olimar
+Pikmin|Marth|Pit|Little Mac|Ice Climbers|Mr. Game & Watch|Professor Layton|Chibi-Robo|Bomberman|Kid Icarus
+Super Mario Bros.|Mario Kart|Super Smash Bros.|The Legend of Zelda|Breath of the Wild|Animal Crossing|Splatoon|Mario Party|Wii Sports|Duck Hunt
+Tetris|Metroid Prime|Star Fox|F-Zero|Punch-Out!!|Excitebike|Pokémon Red and Blue|Brain Age|Nintendogs|Luigi's Mansion
+NES|Super Nintendo|Nintendo 64|GameCube|Wii|Wii U|Nintendo Switch|Game Boy|Game Boy Color|Game Boy Advance
+Nintendo DS|Nintendo 3DS|Virtual Boy|Joy-Con|Wii Remote|Power Glove|Zapper|Rumble Pak|Amiibo|Blowing on the Cartridge
+Super Mushroom|Fire Flower|Super Star|Green Shell|Blue Shell|Banana Peel|Warp Pipe|Question Block|Triforce|Master Sword
+Rainbow Road|Hyrule|Mushroom Kingdom|Koopa Shell|1-Up|Konami Code|Mii|Piranha Plant Pipe|Rupee|Heart Container
+
+== US Presidents | say | People | 🏛️
+George Washington|John Adams|Thomas Jefferson|James Madison|James Monroe|John Quincy Adams|Andrew Jackson|Martin Van Buren|William Henry Harrison|John Tyler
+James K. Polk|Zachary Taylor|Millard Fillmore|Franklin Pierce|James Buchanan|Abraham Lincoln|Andrew Johnson|Ulysses S. Grant|Rutherford B. Hayes|James Garfield
+Chester A. Arthur|Grover Cleveland|Benjamin Harrison|William McKinley|Theodore Roosevelt|William Howard Taft|Woodrow Wilson|Warren G. Harding|Calvin Coolidge|Herbert Hoover
+Franklin D. Roosevelt|Harry S. Truman|Dwight D. Eisenhower|John F. Kennedy|Lyndon B. Johnson|Richard Nixon|Gerald Ford|Jimmy Carter|Ronald Reagan|George H. W. Bush
+Bill Clinton|George W. Bush|Barack Obama|Donald Trump|Joe Biden
