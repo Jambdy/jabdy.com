@@ -14,24 +14,13 @@ $ git clone https://github.com/jbub/ghostwriter
 
 For more information read the official [setup guide](//gohugo.io/overview/installing/) of Hugo.
 
-## Development
+## Archived theme
 
-After installing the theme you need to install javascript dependencies. You can use 
-`npm` or `yarn` to install them from `package.json`. We are using `webpack` to build
-and package styles. In order to develop with realtime reloading in the browser you can 
-use this powerful combo:
+This theme is retained for reference and is no longer loaded by jabdy.com.
+Its obsolete Node/Webpack build setup was removed because it depended on
+vulnerable packages. The original source styles and compiled CSS remain here.
 
-```bash
-hugo server
-yarn run watch
-```
-
-To update theme styles edit the `styles/style.scss` file. You can then either use the `watch` command
-or run `build` to compile the styles:
-
-```bash
-yarn run build
-```
+For current development and build instructions, see the [site README](../../README.md).
 
 ## Example config.toml
 
