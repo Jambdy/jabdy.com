@@ -1,5 +1,5 @@
 +++
-title = "Omni Fantasy"
+title = "Letting AI Call the Plays"
 description = "Fantasy football lineup suggestions, roster moves, and reports on the results."
 date = "2026-09-13"
 tags = ["Python", "Gemini", "AWS"]
@@ -7,7 +7,8 @@ author = "James Abdy"
 ai_generated = true
 visual = "forest"
 card_summary = "An ESPN fantasy football assistant that uses the league\u2019s actual rules, roster, and available players. It checks lineups around game days, considers roster changes, and keeps a record of whether its recommendations helped."
-monogram = "Fantasy football"
+image = "/img/projects/omni-fantasy.svg"
+image_alt = "Football playbook diagram with player positions and routes around a football."
 +++
 
 Omni Fantasy is an assistant for managing an ESPN fantasy football team. It reads the league’s scoring rules, current roster, opponents, and available players, then uses Gemini to suggest lineup and roster changes. This gives it the context of the actual league, including its roster restrictions, instead of asking for general advice about which players might have a good week.
